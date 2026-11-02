@@ -7,11 +7,11 @@
 - We report progress and results on the relevant feature issue: what you can do, where to try it, what you will see and anything still pending.
 - Agreeing to a plan is separate from accepting the demonstrated result. We record your actual confirmation and the scope it covers.
 
-View [all features and progress](https://github.com/BTTSpace/KiKAiTO-client/issues/2) or [questions for you](https://github.com/BTTSpace/KiKAiTO-client/issues/3). The English website is being revamped; the existing Chinese pages remain available.
+View [all features and progress](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2) or [questions for you](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/3). The English website is being revamped; the existing Chinese pages remain available.
 
 - [Label meanings](docs/labels.md)
-- [How to read and reply](https://github.com/BTTSpace/KiKAiTO-client/issues/1)
-- [Homepage feedback FR-2026-10-12-01](https://github.com/BTTSpace/KiKAiTO-client/issues/18)
+- [How to read and reply](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/1)
+- [Homepage feedback FR-2026-10-12-01](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/18)
 - [Received documents](docs/customer-feedback/README.md)
 - [Feature scope](docs/scope-v2.md)
 
@@ -36,11 +36,11 @@ This repository is public. Send private materials through LINE.
 - 製作進度與結果回報到對應功能議題，說明能做什麼、從哪裡操作、會看到什麼，以及還有哪些待完成事項。
 - 確認功能計劃與驗收展示結果是不同階段，均記錄您的實際確認及涵蓋範圍。
 
-查看[全部功能與進度](https://github.com/BTTSpace/KiKAiTO-client/issues/2)或[請你回答的問題](https://github.com/BTTSpace/KiKAiTO-client/issues/3)。本次改版英文網站，既有中文頁面仍可使用。
+查看[全部功能與進度](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2)或[請你回答的問題](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/3)。本次改版英文網站，既有中文頁面仍可使用。
 
 - [標籤說明](docs/labels.md)
-- [操作與回覆指南](https://github.com/BTTSpace/KiKAiTO-client/issues/1)
-- [首頁回饋 FR-2026-10-12-01](https://github.com/BTTSpace/KiKAiTO-client/issues/18)
+- [操作與回覆指南](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/1)
+- [首頁回饋 FR-2026-10-12-01](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/18)
 - [收到的文件](docs/customer-feedback/README.md)
 - [功能範圍](docs/scope-v2.md)
 

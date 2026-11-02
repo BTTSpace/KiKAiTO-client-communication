@@ -1,6 +1,6 @@
 # Website features
 
-The feature plan dated 2026-09-24 is listed in [all features and progress](https://github.com/BTTSpace/KiKAiTO-client/issues/2). Later homepage feedback is linked in [the received document](https://github.com/BTTSpace/KiKAiTO-client/blob/main/docs/customer-feedback/FR-2026-10-12-01/README.md).
+The feature plan dated 2026-09-24 is listed in [all features and progress](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2). Later homepage feedback is linked in [the received document](https://github.com/BTTSpace/KiKAiTO-client-communication/blob/main/docs/customer-feedback/FR-2026-10-12-01/README.md).
 
 ## Website
 
@@ -26,7 +26,7 @@ Automatic translation, shopping carts and online checkout are outside this plan.
 
 # 網站功能
 
-2026-09-24 的功能計劃列於[全部功能與進度](https://github.com/BTTSpace/KiKAiTO-client/issues/2)。後續首頁回饋見[收到的原始文件](https://github.com/BTTSpace/KiKAiTO-client/blob/main/docs/customer-feedback/FR-2026-10-12-01/README.md)。
+2026-09-24 的功能計劃列於[全部功能與進度](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2)。後續首頁回饋見[收到的原始文件](https://github.com/BTTSpace/KiKAiTO-client-communication/blob/main/docs/customer-feedback/FR-2026-10-12-01/README.md)。
 
 ## 網站
 
