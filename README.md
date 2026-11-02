@@ -1,4 +1,4 @@
-# KiKAiTO English website revamp
+# KiKAiTO customer requirements and communication
 
 ## Purpose of this space
 
@@ -27,7 +27,7 @@ This repository is public. Send private materials through LINE.
 <details>
 <summary>中文說明（點此展開）</summary>
 
-# KiKAiTO 英文網站改版
+# KiKAiTO 客戶需求溝通與驗收
 
 ## 此倉庫的用途
 
