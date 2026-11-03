@@ -10,7 +10,7 @@ A guided local interactive demonstration is available during review. Some same-d
 
 ## Motion demonstration, 2026-11-04
 
-These views show the motion-corrected English homepage demonstration; their visual review is pending. The browser emulates the device setting at 1440 × 900 and 390 × 844; these are browser viewports, not physical devices. The still images show the settled first cover. The recordings show switching from the first cover to the second; the normal setting fades the incoming cover and reduced motion displays it directly. The tagline entrance was checked on page load in both settings; the recordings start at the top of the page and do not show that entrance close up. External video playback is outside these recordings.
+These views show the motion-corrected English homepage demonstration; their visual review is pending. The browser emulates the device setting at 1440 × 900 and 390 × 844; these are browser viewports, not physical devices. The still images show the settled first cover. The recordings show switching from the first cover to the second; the normal setting fades the incoming cover and reduced motion displays it directly. The tagline recordings below scroll to the tagline and reload the page at that position: with motion allowed the text enters, while reduced motion displays it immediately. On an initial visit at the top of the page, the entrance can finish before the visitor scrolls to it. External video playback is outside these recordings.
 
 ![Desktop, motion allowed](images/desktop-no-preference.png)
 
@@ -19,6 +19,8 @@ These views show the motion-corrected English homepage demonstration; their visu
 ![Mobile, motion allowed](images/mobile-no-preference.png)
 
 ![Mobile, reduced motion](images/mobile-reduce.png)
+
+Tagline reload recordings: [desktop, motion allowed](recordings/desktop-no-preference-reload.webm) · [desktop, reduced motion](recordings/desktop-reduce-reload.webm) · [mobile, motion allowed](recordings/mobile-no-preference-reload.webm) · [mobile, reduced motion](recordings/mobile-reduce-reload.webm).
 
 Recordings: [desktop, motion allowed](recordings/desktop-no-preference.webm) · [desktop, reduced motion](recordings/desktop-reduce.webm) · [mobile, motion allowed](recordings/mobile-no-preference.webm) · [mobile, reduced motion](recordings/mobile-reduce.webm). Customer feedback and acceptance remain pending.
 
@@ -181,7 +183,7 @@ Caption：English article with unavailable action, 1440px | Demonstration 2026-1
 
 ## 動畫展示，2026-11-04
 
-這些畫面呈現動畫修正後的英文首頁展示，視覺審閱尚待進行。瀏覽器在 1440 × 900 及 390 × 844 視窗模擬裝置設定，並非實體裝置。靜態圖片顯示第一張封面穩定後的畫面。錄影呈現從第一張切換至第二張封面；允許動畫時新封面淡入，減少動畫時直接顯示。標語進場已在兩種設定的頁面載入時檢查；錄影從頁面頂端開始，沒有近距離呈現該進場。外部影片播放不在這些錄影範圍內。
+這些畫面呈現動畫修正後的英文首頁展示，視覺審閱尚待進行。瀏覽器在 1440 × 900 及 390 × 844 視窗模擬裝置設定，並非實體裝置。靜態圖片顯示第一張封面穩定後的畫面。錄影呈現從第一張切換至第二張封面；允許動畫時新封面淡入，減少動畫時直接顯示。以下標語錄影先捲至標語，再於該位置重新載入頁面：允許動畫時文字進場，減少動畫時直接顯示。首次從頁面頂端進入時，訪客捲到標語前動畫可能已結束。外部影片播放不在這些錄影範圍內。
 
 ![桌機，允許動畫](images/desktop-no-preference.png)
 
@@ -190,6 +192,8 @@ Caption：English article with unavailable action, 1440px | Demonstration 2026-1
 ![手機，允許動畫](images/mobile-no-preference.png)
 
 ![手機，減少動畫](images/mobile-reduce.png)
+
+標語重新載入錄影：[桌機，允許動畫](recordings/desktop-no-preference-reload.webm) · [桌機，減少動畫](recordings/desktop-reduce-reload.webm) · [手機，允許動畫](recordings/mobile-no-preference-reload.webm) · [手機，減少動畫](recordings/mobile-reduce-reload.webm)。
 
 錄影：[桌機，允許動畫](recordings/desktop-no-preference.webm) · [桌機，減少動畫](recordings/desktop-reduce.webm) · [手機，允許動畫](recordings/mobile-no-preference.webm) · [手機，減少動畫](recordings/mobile-reduce.webm)。客戶回饋及驗收尚待進行。
 
