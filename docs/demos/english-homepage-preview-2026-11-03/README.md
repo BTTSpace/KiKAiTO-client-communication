@@ -1,6 +1,6 @@
 # English homepage preview, 2026-11-03
 
-This demonstration is under review; owner visual review and customer acceptance remain pending. The navigation positioning has been repaired in the demonstration for both languages. Independent review remains pending. The English homepage uses the complete Chinese homepage layout as its base, with English content and approved English-only sections. Compare the banners, catalogue, featured products, video, Community, and the added English News and categories in the full pages below. Featured product selections can differ.
+This demonstration is under review; owner visual review and customer acceptance remain pending. Pending customer acceptance does not block closure after verified completion; see the [completion policy](../../../README.md). The navigation positioning has been repaired in the demonstration for both languages. Independent review remains pending. The English homepage uses the complete Chinese homepage layout as its base, with English content and approved English-only sections. Compare the banners, catalogue, featured products, video, Community, and the added English News and categories in the full pages below. Featured product selections can differ.
 
 The demonstration uses the Chinese source archive dated 2026-09-24: 225 products, 1,079 gallery images and 22 Community articles. English text is demonstration translation and is not approved final copy. Some original artwork contains Chinese lettering. The archive does not establish current live content; product specifications, safety and marketing claims have not been verified. Historical business contact details may no longer be valid and must not be used for live contact. The archive has 103 unavailable inline file paths, including 98 image paths and five PDF paths. Five additional printable-step references have instruction text but no source link; unavailable actions are labelled beside the text. News, video covers and distributors include illustrative examples.
 
@@ -157,7 +157,7 @@ Caption：English article with unavailable action, 1440px | Demonstration 2026-1
 
 # 英文首頁展示，2026-11-03
 
-此展示仍在審閱中，負責人的視覺審閱及客戶驗收尚待進行。展示中的中英文導覽位置已修正，獨立審閱尚待進行。英文首頁以完整中文首頁版面為基礎，使用英文內容並整合已核准的英文專屬區塊。可比較以下完整頁面的橫幅、產品型錄、精選商品、影片、Community，以及額外的英文 News 與分類。精選商品可能不同。
+此展示仍在審閱中，負責人的視覺審閱及客戶驗收尚待進行。工作完成並核對後，待客戶驗收不阻擋結案；請參閱[結案規則](../../../README.md)。展示中的中英文導覽位置已修正，獨立審閱尚待進行。英文首頁以完整中文首頁版面為基礎，使用英文內容並整合已核准的英文專屬區塊。可比較以下完整頁面的橫幅、產品型錄、精選商品、影片、Community，以及額外的英文 News 與分類。精選商品可能不同。
 
 此展示使用 2026-09-24 中文來源封存：225 筆商品、1,079 張商品圖片及 22 篇 Community 文章。英文為示範翻譯，尚未核准為正式文案。部分原始圖片含中文字樣。封存不能代表目前正式網站內容；商品規格、安全與行銷敘述尚未驗證。歷史商業聯絡資料可能已失效，請勿用於實際聯絡。封存中有 103 個無法取得的內嵌檔案路徑，包括 98 個圖片路徑及五個 PDF 路徑。另外五項列印步驟引用有說明文字，但沒有來源連結；無法使用的項目會在文字旁標示。News、影片封面及經銷商包含示例資料。
 
