@@ -1,12 +1,28 @@
 # English homepage preview, 2026-11-03
 
-The [demonstration images have been checked](https://github.com/BTTSpace/KiKAiTO-client-communication/pull/28#issuecomment-6607342732). Owner feedback and customer acceptance remain pending; customer feedback is welcome. Pending customer acceptance does not block closure after verified completion; see the [completion policy](../../../README.md). The navigation positioning has been repaired in the demonstration for both languages. The English homepage uses the complete Chinese homepage layout as its base, with English content and approved English-only sections. Compare the banners, catalogue, featured products, video, Community, and the added English News and categories in the full pages below. Featured product selections can differ.
+The [2026-11-03 demonstration images have been checked](https://github.com/BTTSpace/KiKAiTO-client-communication/pull/28#issuecomment-6607342732). Owner feedback and customer acceptance remain pending; customer feedback is welcome. Pending customer acceptance does not block closure after verified completion; see the [completion policy](../../../README.md). The navigation positioning has been repaired in the demonstration for both languages. The English homepage uses the complete Chinese homepage layout as its base, with English content and approved English-only sections. Compare the banners, catalogue, featured products, video, Community, and the added English News and categories in the full pages below. Featured product selections can differ.
 
 The demonstration uses the Chinese source archive dated 2026-09-24: 225 products, 1,079 gallery images and 22 Community articles. English text is demonstration translation and is not approved final copy. Some original artwork contains Chinese lettering. The archive does not establish current live content; product specifications, safety and marketing claims have not been verified. Historical business contact details may no longer be valid and must not be used for live contact. The archive has 103 unavailable inline file paths, including 98 image paths and five PDF paths. Five additional printable-step references have instruction text but no source link; unavailable actions are labelled beside the text. News, video covers and distributors include illustrative examples.
 
 Every Chinese visitor page offers an English entry, and every English visitor page offers a Chinese entry on desktop and mobile. In Community, choose a category or More, open an article, and select Return to Community to return to the list. Select Play video to activate a YouTube video or an available external link to open its destination. The email quotation link should contain the correct address, subject and message. The appearance or launch of an external player or mail application is not part of visual review.
 
 A guided local interactive demonstration is available during review. Some same-day screenshots and recordings are retained where their rendered views are unaffected by the tablet navigation and News date changes. The downloadable recordings below are files, not an inline player. The earlier [English preview](../english-preview-2026-11-02/README.md) and [theme demonstration](../english-theme-preview-2026-11-03/README.md) are historical and do not show the current homepage layout. Overall progress: [#2](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2), [#15](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/15).
+
+## First-scroll motion demonstration, 2026-11-04
+
+On 2026-11-04, the desktop and mobile browser views were checked for tagline entrance and cover switching with motion allowed and reduced motion. The previously observed first-entry flash was absent in the inspected captures. The browser emulates motion allowed and reduced motion at 1440 × 900 and 390 × 844, rather than using physical devices. Each recording starts at the top and scrolls to the tagline. With motion allowed, the tagline enters as it reaches the viewport and the next cover fades in; with reduced motion, both appear without the entrance animation. The screenshots show settled first-cover states. External video playback is not shown.
+
+![Desktop first scroll, motion allowed](images/first-scroll-desktop-no-preference.png)
+
+![Desktop first scroll, reduced motion](images/first-scroll-desktop-reduce.png)
+
+![Mobile first scroll, motion allowed](images/first-scroll-mobile-no-preference.png)
+
+![Mobile first scroll, reduced motion](images/first-scroll-mobile-reduce.png)
+
+Tagline: [desktop, motion allowed](recordings/first-scroll-desktop-no-preference-entry.webm) · [desktop, reduced motion](recordings/first-scroll-desktop-reduce-entry.webm) · [mobile, motion allowed](recordings/first-scroll-mobile-no-preference-entry.webm) · [mobile, reduced motion](recordings/first-scroll-mobile-reduce-entry.webm).
+
+Cover switching: [desktop, motion allowed](recordings/first-scroll-desktop-no-preference-cover.webm) · [desktop, reduced motion](recordings/first-scroll-desktop-reduce-cover.webm) · [mobile, motion allowed](recordings/first-scroll-mobile-no-preference-cover.webm) · [mobile, reduced motion](recordings/first-scroll-mobile-reduce-cover.webm). Customer feedback and acceptance remain pending.
 
 ## Screens and recordings
 
@@ -157,13 +173,29 @@ Caption：English article with unavailable action, 1440px | Demonstration 2026-1
 
 # 英文首頁展示，2026-11-03
 
-[展示圖片已完成檢查](https://github.com/BTTSpace/KiKAiTO-client-communication/pull/28#issuecomment-6607342732)。負責人回饋及客戶驗收尚待進行，歡迎客戶提出意見。工作完成並核對後，待客戶驗收不阻擋結案；請參閱[結案規則](../../../README.md)。展示中的中英文導覽位置已修正。英文首頁以完整中文首頁版面為基礎，使用英文內容並整合已核准的英文專屬區塊。可比較以下完整頁面的橫幅、產品型錄、精選商品、影片、Community，以及額外的英文 News 與分類。精選商品可能不同。
+[2026-11-03 展示圖片已完成檢查](https://github.com/BTTSpace/KiKAiTO-client-communication/pull/28#issuecomment-6607342732)。負責人回饋及客戶驗收尚待進行，歡迎客戶提出意見。工作完成並核對後，待客戶驗收不阻擋結案；請參閱[結案規則](../../../README.md)。展示中的中英文導覽位置已修正。英文首頁以完整中文首頁版面為基礎，使用英文內容並整合已核准的英文專屬區塊。可比較以下完整頁面的橫幅、產品型錄、精選商品、影片、Community，以及額外的英文 News 與分類。精選商品可能不同。
 
 此展示使用 2026-09-24 中文來源封存：225 筆商品、1,079 張商品圖片及 22 篇 Community 文章。英文為示範翻譯，尚未核准為正式文案。部分原始圖片含中文字樣。封存不能代表目前正式網站內容；商品規格、安全與行銷敘述尚未驗證。歷史商業聯絡資料可能已失效，請勿用於實際聯絡。封存中有 103 個無法取得的內嵌檔案路徑，包括 98 個圖片路徑及五個 PDF 路徑。另外五項列印步驟引用有說明文字，但沒有來源連結；無法使用的項目會在文字旁標示。News、影片封面及經銷商包含示例資料。
 
 每個中文訪客頁面均提供英文入口，每個英文訪客頁面均提供中文入口，桌機及手機皆可使用。在 Community 選擇類別或 More，開啟文章後可選 Return to Community 返回列表。選擇 Play video 可啟動 YouTube 影片，選擇可用的外部連結可開啟目的地。電子郵件詢價連結應包含正確的收件地址、主旨及內文。外部播放器或郵件應用程式的外觀或啟動不屬於視覺審閱範圍。
 
 審閱時可由人員引導操作本機互動展示。顯示內容未受平板導覽與 News 日期修正影響的截圖及錄影，保留同日較早畫面。以下錄影為可下載檔案，並非內嵌播放器。較早的[英文預覽](../english-preview-2026-11-02/README.md)與[主題展示](../english-theme-preview-2026-11-03/README.md)為歷史紀錄，未呈現目前首頁版面。整體進度：[#2](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2), [#15](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/15)。
+
+## 首次捲動動畫展示，2026-11-04
+
+2026-11-04 已檢查桌機及手機瀏覽器畫面中，允許動畫與減少動畫設定下的標語進場及封面切換。所檢畫面未出現先前首次進場時觀察到的閃爍。瀏覽器在 1440 × 900 及 390 × 844 視窗模擬允許動畫和減少動畫設定，並非實體裝置。每支錄影從頁面頂端開始，捲動至標語。允許動畫時，標語進入視窗時呈現進場效果，下一張封面淡入；減少動畫時兩者直接顯示，沒有進場動畫。截圖顯示第一張封面穩定後的畫面，未展示外部影片播放。
+
+![桌機首次捲動，允許動畫](images/first-scroll-desktop-no-preference.png)
+
+![桌機首次捲動，減少動畫](images/first-scroll-desktop-reduce.png)
+
+![手機首次捲動，允許動畫](images/first-scroll-mobile-no-preference.png)
+
+![手機首次捲動，減少動畫](images/first-scroll-mobile-reduce.png)
+
+標語：[桌機，允許動畫](recordings/first-scroll-desktop-no-preference-entry.webm) · [桌機，減少動畫](recordings/first-scroll-desktop-reduce-entry.webm) · [手機，允許動畫](recordings/first-scroll-mobile-no-preference-entry.webm) · [手機，減少動畫](recordings/first-scroll-mobile-reduce-entry.webm)。
+
+封面切換：[桌機，允許動畫](recordings/first-scroll-desktop-no-preference-cover.webm) · [桌機，減少動畫](recordings/first-scroll-desktop-reduce-cover.webm) · [手機，允許動畫](recordings/first-scroll-mobile-no-preference-cover.webm) · [手機，減少動畫](recordings/first-scroll-mobile-reduce-cover.webm)。客戶回饋及驗收尚待進行。
 
 ## 畫面與錄影
 
