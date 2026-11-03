@@ -1,3 +1,5 @@
+> 2026-11-03: This historical preview uses an earlier theme. See the [corrected theme demonstration](../english-theme-preview-2026-11-03/README.md); acceptance remains pending.
+
 # English preview 2026-11-02
 
 Chinese source archive: **2026-09-24**. The English text is a demonstration translation, not approved final copy. This archive cannot establish what is currently on the live website. The original images may contain Chinese lettering and product model/SKU fields may remain Chinese. Product specifications, safety and marketing claims have not been independently verified. Archived contact phone numbers and addresses are historical source values and have not been verified as current; do not rely on this preview for live contact.
@@ -271,6 +273,8 @@ Caption: Chinese information, mobile | English preview 2026-11-02
 
 <details>
 <summary>中文說明（點此展開）</summary>
+
+> 2026-11-03：此歷史展示使用較早的主題。請參閱[修正後的主題展示](../english-theme-preview-2026-11-03/README.md)；驗收仍待進行。
 
 # 英文網站展示 2026-11-02
 
