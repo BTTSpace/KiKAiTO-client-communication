@@ -1,3 +1,7 @@
+> **Current direction, 2026-11-03:** This guide and its captures are historical. The English homepage is being corrected using the complete Chinese homepage layout as its base, including banners, spacing and colours, with English content and approved English-only sections. A new demonstration is being prepared to show the Chinese and English homepages side by side. These historical captures cannot establish acceptance of the current layout; visual review and customer acceptance remain pending. See the [homepage direction](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2#issuecomment-6593497713).
+>
+> On desktop and mobile, every Chinese visitor page should offer an English entry, and every English visitor page should offer a Chinese entry. YouTube should connect to the video; the email quotation entry should provide the correct address, subject and message in the email link. The appearance or launch of an external player or mail application is not part of the visual review.
+
 > 2026-11-03: This historical preview uses an earlier theme. See the [corrected theme demonstration](../english-theme-preview-2026-11-03/README.md); acceptance remains pending.
 
 # English preview 2026-11-02
@@ -273,6 +277,10 @@ Caption: Chinese information, mobile | English preview 2026-11-02
 
 <details>
 <summary>中文說明（點此展開）</summary>
+
+> **目前方向，2026-11-03：** 本指南及其畫面為歷史紀錄。英文首頁正在修正，將以完整中文首頁版面為基礎，包括橫幅、間距及配色，使用英文內容並整合已核准的英文專屬區塊。新的展示正在準備中，屆時會並排呈現中英文首頁。這些歷史畫面不能作為目前版面已驗收的依據；視覺審閱及客戶驗收仍待進行。請參閱[首頁方向](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2#issuecomment-6593497713)。
+>
+> 桌機及手機上的每個中文訪客頁面都應提供英文入口，每個英文訪客頁面都應提供中文入口。YouTube 應能連接影片；電子郵件詢價入口應在郵件連結中提供正確的收件地址、主旨及內文。外部播放器或郵件應用程式的外觀或啟動不屬於視覺審閱範圍。
 
 > 2026-11-03：此歷史展示使用較早的主題。請參閱[修正後的主題展示](../english-theme-preview-2026-11-03/README.md)；驗收仍待進行。
 
