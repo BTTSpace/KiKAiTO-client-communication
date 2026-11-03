@@ -6,11 +6,37 @@ The demonstration uses the Chinese source archive dated 2026-09-24: 225 products
 
 Every Chinese visitor page offers an English entry, and every English visitor page offers a Chinese entry on desktop and mobile. In Community, choose a category or More, open an article, and select Return to Community to return to the list. Select Play video to activate a YouTube video or an available external link to open its destination. The email quotation link should contain the correct address, subject and message. The appearance or launch of an external player or mail application is not part of visual review.
 
-A guided local interactive demonstration is available during review. The downloadable recordings below are files, not an inline player. The earlier [English preview](../english-preview-2026-11-02/README.md) and [theme demonstration](../english-theme-preview-2026-11-03/README.md) are historical and do not show the current homepage layout. Overall progress: [#2](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2), [#15](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/15).
+A guided local interactive demonstration is available during review. Some same-day screenshots and recordings are retained where their rendered views are unaffected by the tablet navigation and News date changes. The downloadable recordings below are files, not an inline player. The earlier [English preview](../english-preview-2026-11-02/README.md) and [theme demonstration](../english-theme-preview-2026-11-03/README.md) are historical and do not show the current homepage layout. Overall progress: [#2](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2), [#15](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/15).
 
 ## Screens and recordings
 
+The language switch shows 中文 and EN with the current language marked. Select the other language by click or keyboard to open its homepage. The English Products menu aligns each column at its left text edge and keeps corresponding rows aligned. The five desktop groups below are from the compact-switch demonstration at 1153px; the KGB Tools view is the second image. Demonstration 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6), [#16](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/16).
+
+Language switch recordings, demonstration 2026-11-03: Chinese to English: [mobile click](recordings/language-zh-390-click.webm), [mobile keyboard](recordings/language-zh-390-keyboard.webm), [desktop click](recordings/language-zh-1153-click.webm), [desktop keyboard](recordings/language-zh-1153-keyboard.webm). English to Chinese: [mobile click](recordings/language-en-390-click.webm), [mobile keyboard](recordings/language-en-390-keyboard.webm), [desktop click](recordings/language-en-1153-click.webm), [desktop keyboard](recordings/language-en-1153-keyboard.webm). [#16](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/16)
+
+![Modular Series menu at 1153px](images/en-group-0-1153.png)
+
+Caption: Modular Series menu open, desktop 1153px; demonstration 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6).
+
+![KGB Tools menu at 1153px](images/en-group-1-1153.png)
+
+Caption: KGB Tools menu open, desktop 1153px; demonstration 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6).
+
+![Waterproof Products menu at 1153px](images/en-group-2-1153.png)
+
+Caption: Waterproof Products menu open, desktop 1153px; demonstration 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6).
+
+![Accessories menu at 1153px](images/en-group-3-1153.png)
+
+Caption: Accessories menu open, desktop 1153px; demonstration 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6).
+
+![Fasteners menu at 1153px](images/en-group-4-1153.png)
+
+Caption: Fasteners menu open, desktop 1153px; demonstration 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6).
+
 The navigation views show the drawer open and closed at 390px and 991px, and the desktop navigation at 992px. The Fasteners views show the English menu open at 768px and 800px. The recordings show navigation and scrolling in each language. Demonstration 2026-11-03; source archive 2026-09-24; features [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6), [#16](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/16), [#18](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/18).
+
+Tablet navigation at 768, 800, 900 and 991px, demonstration 2026-11-03: Chinese 768px [closed](images/zh-nav-768-closed.png) / [open](images/zh-nav-768-open.png); Chinese 800px [closed](images/zh-nav-800-closed.png) / [open](images/zh-nav-800-open.png); Chinese 900px [closed](images/zh-nav-900-closed.png) / [open](images/zh-nav-900-open.png); Chinese 991px [closed](images/zh-nav-991-closed.png) / [open](images/zh-boundary-991.png); English 768px [closed](images/en-nav-768-closed.png) / [open](images/en-nav-768-open.png); English 800px [closed](images/en-nav-800-closed.png) / [open](images/en-nav-800-open.png); English 900px [closed](images/en-nav-900-closed.png) / [open](images/en-nav-900-open.png); English 991px [closed](images/en-nav-991-closed.png) / [open](images/en-boundary-991.png); [#5](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/5), [#16](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/16).
 
 ![Chinese navigation closed, 390px](images/zh-nav-390-closed.png)
 
@@ -25,6 +51,8 @@ The navigation views show the drawer open and closed at 390px and 991px, and the
 ![English navigation closed, 991px](images/en-nav-991-closed.png)
 
 [Chinese navigation, mobile](recordings/zh-navigation-390.webm) | [English navigation, mobile](recordings/en-navigation-390.webm)
+
+[Chinese tablet navigation, 800px](recordings/zh-tablet-navigation-800.webm) | [Chinese tablet navigation, 991px](recordings/zh-tablet-navigation-991.webm). The recordings show opening and closing a wrapped category menu; demonstration 2026-11-03.
 
 [Chinese navigation, desktop](recordings/zh-navigation-992.webm) | [English navigation, desktop](recordings/en-navigation-992.webm)
 
@@ -135,11 +163,37 @@ Caption：English article with unavailable action, 1440px | Demonstration 2026-1
 
 每個中文訪客頁面均提供英文入口，每個英文訪客頁面均提供中文入口，桌機及手機皆可使用。在 Community 選擇類別或 More，開啟文章後可選 Return to Community 返回列表。選擇 Play video 可啟動 YouTube 影片，選擇可用的外部連結可開啟目的地。電子郵件詢價連結應包含正確的收件地址、主旨及內文。外部播放器或郵件應用程式的外觀或啟動不屬於視覺審閱範圍。
 
-審閱時可由人員引導操作本機互動展示。以下錄影為可下載檔案，並非內嵌播放器。較早的[英文預覽](../english-preview-2026-11-02/README.md)與[主題展示](../english-theme-preview-2026-11-03/README.md)為歷史紀錄，未呈現目前首頁版面。整體進度：[#2](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2), [#15](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/15)。
+審閱時可由人員引導操作本機互動展示。顯示內容未受平板導覽與 News 日期修正影響的截圖及錄影，保留同日較早畫面。以下錄影為可下載檔案，並非內嵌播放器。較早的[英文預覽](../english-preview-2026-11-02/README.md)與[主題展示](../english-theme-preview-2026-11-03/README.md)為歷史紀錄，未呈現目前首頁版面。整體進度：[#2](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2), [#15](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/15)。
 
 ## 畫面與錄影
 
+語言切換同時顯示中文與 EN，並標示目前語言。以滑鼠或鍵盤選擇另一語言可開啟其首頁。英文商品選單每欄文字靠左對齊，且對應列保持對齊。下方五組桌機畫面為 1153px 的精簡語言切換展示；第二張為 KGB Tools。展示日期 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6)、[#16](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/16)。
+
+語言切換錄影，展示日期 2026-11-03：中文切換至英文：[手機點選](recordings/language-zh-390-click.webm)、[手機鍵盤](recordings/language-zh-390-keyboard.webm)、[桌機點選](recordings/language-zh-1153-click.webm)、[桌機鍵盤](recordings/language-zh-1153-keyboard.webm)。英文切換至中文：[手機點選](recordings/language-en-390-click.webm)、[手機鍵盤](recordings/language-en-390-keyboard.webm)、[桌機點選](recordings/language-en-1153-click.webm)、[桌機鍵盤](recordings/language-en-1153-keyboard.webm)。[#16](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/16)
+
+![Modular Series 選單，1153px](images/en-group-0-1153.png)
+
+圖說：Modular Series 選單展開，桌機 1153px；展示日期 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6)。
+
+![KGB Tools 選單，1153px](images/en-group-1-1153.png)
+
+圖說：KGB Tools 選單展開，桌機 1153px；展示日期 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6)。
+
+![Waterproof Products 選單，1153px](images/en-group-2-1153.png)
+
+圖說：Waterproof Products 選單展開，桌機 1153px；展示日期 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6)。
+
+![Accessories 選單，1153px](images/en-group-3-1153.png)
+
+圖說：Accessories 選單展開，桌機 1153px；展示日期 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6)。
+
+![Fasteners 選單，1153px](images/en-group-4-1153.png)
+
+圖說：Fasteners 選單展開，桌機 1153px；展示日期 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6)。
+
 導覽畫面顯示 390px 及 991px 的選單展開與收合，以及 992px 的桌機導覽。Fasteners 畫面顯示英文選單在 768px 及 800px 展開的狀態。錄影顯示各語言的導覽與捲動畫面。展示 2026-11-03；來源封存 2026-09-24；功能 [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6)、[#16](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/16)、[#18](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/18)。
+
+768、800、900 及 991px 平板導覽，展示日期 2026-11-03：中文 768px [收合](images/zh-nav-768-closed.png)／[展開](images/zh-nav-768-open.png)；中文 800px [收合](images/zh-nav-800-closed.png)／[展開](images/zh-nav-800-open.png)；中文 900px [收合](images/zh-nav-900-closed.png)／[展開](images/zh-nav-900-open.png)；中文 991px [收合](images/zh-nav-991-closed.png)／[展開](images/zh-boundary-991.png)；英文 768px [收合](images/en-nav-768-closed.png)／[展開](images/en-nav-768-open.png)；英文 800px [收合](images/en-nav-800-closed.png)／[展開](images/en-nav-800-open.png)；英文 900px [收合](images/en-nav-900-closed.png)／[展開](images/en-nav-900-open.png)；英文 991px [收合](images/en-nav-991-closed.png)／[展開](images/en-boundary-991.png)；[#5](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/5)、[#16](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/16)。
 
 ![中文導覽收合，390px](images/zh-nav-390-closed.png)
 
@@ -154,6 +208,8 @@ Caption：English article with unavailable action, 1440px | Demonstration 2026-1
 ![英文導覽收合，991px](images/en-nav-991-closed.png)
 
 [中文導覽，手機](recordings/zh-navigation-390.webm) | [英文導覽，手機](recordings/en-navigation-390.webm)
+
+[中文平板導覽，800px](recordings/zh-tablet-navigation-800.webm) | [中文平板導覽，991px](recordings/zh-tablet-navigation-991.webm)。錄影呈現換列後分類選單的開啟與關閉；展示日期 2026-11-03。
 
 [中文導覽，桌機](recordings/zh-navigation-992.webm) | [英文導覽，桌機](recordings/en-navigation-992.webm)
 

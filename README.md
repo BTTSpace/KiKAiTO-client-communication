@@ -23,7 +23,7 @@ Each issue shows English first, with Chinese below. Reply in either language, in
 - `needs-customer-response`: a reply is required.
 - `needs-customer-decision`: each question has a recommendation and a reason. Within a plan you have confirmed, if no change is needed, we proceed with that recommendation. For a change, select another option or “Other” and describe your proposal; comment or reply via LINE.
 
-After each feature is implemented, we provide screenshots; for motion or interactive features, also provide a demonstration video or an interactive demo. When the demo link is provided, review the shown version and tell us what should change or confirm that it meets the acceptance list. This is the feature-planning stage; those demonstrations follow implementation.
+The preview guides provide screenshots and downloadable recordings for review. A guided interactive demonstration is available locally during review. Please review the shown version and report any changes or acceptance separately; customer acceptance remains pending.
 
 This repository is public. Send private materials through LINE.
 
@@ -55,7 +55,7 @@ This repository is public. Send private materials through LINE.
 - `needs-customer-response`：需要回覆。
 - `needs-customer-decision`：每題附建議方案及理由，在您已確認的計劃內，無需調整就依建議執行；需調整時可選其他選項，或選「其他」填寫自己的建議，在議題留言或透過 LINE 回覆。
 
-各功能完成實作後提供畫面截圖；動態或互動功能另附展示影片或可操作 demo。提供 demo 連結後，核對展示版本，提出需修改之處，或確認符合驗收條件。目前為功能規劃階段，展示於功能完成後提供。
+展示指南提供畫面截圖及可下載錄影供審閱；審閱期間可由人員引導操作本機互動展示。請核對展示版本，另行提出修改或驗收意見；客戶驗收尚待進行。
 
 本倉庫公開，私密素材使用LINE交付。
 

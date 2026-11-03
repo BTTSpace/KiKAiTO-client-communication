@@ -4,7 +4,7 @@ This preview is for review; customer acceptance remains pending. The [homepage p
 
 The demonstration uses the Chinese archive dated 2026-09-24: 225 products, 1,079 gallery images and 22 Community articles. English text is an unapproved demonstration translation; some original artwork contains Chinese. Chinese text may use a Noto fallback font. The archive does not establish current live content, and product specifications, safety and marketing claims have not been verified. Historical contact details may no longer be valid; do not use them for live contact. There are 103 unavailable inline file paths: 98 images and five PDFs. Five further printable-step references have instruction text but no source link. News, video covers and distributors include labelled illustrative examples, excluded from the archive counts.
 
-All pictures below show the demonstration on 2026-11-03. Recordings can be downloaded. A guided local interactive demonstration is available during review. Selecting a YouTube cover activates its player; the appearance or launch of an external player is not part of visual review. A quotation link prepares an email with the product, model and page; its external mail application is not part of visual review, and the demonstration sends no message.
+The visitor pages and previews show the compact language switch demonstration on 2026-11-03. Administrator-only editor and control pictures retain earlier captures from the same date; those screens are unchanged by the visitor-header correction. Other same-day visitor pictures and recordings are retained where their rendered views are unaffected by the tablet navigation and News date changes. Recordings can be downloaded. A guided local interactive demonstration is available during review. Selecting a YouTube cover activates its player; the appearance or launch of an external player is not part of visual review. A quotation link prepares an email with the product, model and page; its external mail application is not part of visual review, and the demonstration sends no message.
 
 ## Products, categories and quotation
 
@@ -23,6 +23,10 @@ Caption: First English category after publication; demonstration 2026-11-03; sou
 
 - Product and quotation entry: [desktop](images/product-current-1440.png), [mobile](images/product-current-390.png). Selected gallery image: [desktop](images/gallery-1440.png), [mobile](images/gallery-390.png).
 
+![Quotation link in the product page](images/quotation-entry-readable.png)
+
+Caption: Quotation link at the end of the product page; demonstration 2026-11-03 | [#10](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/10).
+
 ![Quotation recipient setting](images/quotation-settings.png)
 
 Caption: Illustrative quotation recipient setting; demonstration 2026-11-03 | [#10](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/10)
@@ -39,7 +43,7 @@ The following syntax check shows the decoded fields prepared by clicking the quo
 | Quantity, destination, message | Blank for the visitor to complete |
 
 - The administrator can keep Chinese product content and edit English content and categories separately. [Product editor](images/product-editor.png), [English draft preview](images/product-preview.png), [published English result](images/product-published.png), [Chinese product](images/chinese-product.png), [category editor](images/category-editor.png), [product recording](recordings/product-flow.webm).
-- The administrator can select more than one English category and feature a product. [Featured draft](images/featured-preview.png), [published homepage](images/featured-published.png), [category, featured and unpublish recording](recordings/featured-flow.webm).
+- The administrator can select more than one English category and feature a product. [Featured draft](images/featured-preview.png), [published homepage](images/featured-published.png), [category, featured and unpublish recording](recordings/featured-flow.webm). The preview and published views can show the same content; the recording shows the operations and results.
 
 ![Featured image and order controls](images/featured-controls.png)
 
@@ -59,14 +63,14 @@ Caption: Illustrative News published; demonstration 2026-11-03 | [#8](https://gi
 
 
 - News list: [desktop](images/news-current-1440.png), [mobile](images/news-current-390.png). Article: [desktop](images/article-current-1440.png), [mobile](images/article-current-390.png).
-- [News editor](images/news-editor.png), [draft preview](images/news-preview.png), [published result](images/news-published.png), [recording](recordings/news-flow.webm).
-- Video cover before activation: [desktop](images/video-cover-1440.png), [mobile](images/video-cover-390.png). Activated player: [desktop](images/video-active-1440.png), [mobile](images/video-active-390.png).
+- [News editor](images/news-editor.png), [draft preview](images/news-preview.png), [published result](images/news-published.png), [recording](recordings/news-flow.webm). The preview and published images show the same article content. The recording shows edited fields and a saved confirmation, preview and published views, and selected publish and unpublish actions with their results; it does not show the Save button or preview navigation.
+- Video cover before activation: [desktop](images/video-cover-1440.png), [mobile](images/video-cover-390.png). Activated frame with the external player blocked in this demonstration: [desktop](images/video-active-1440.png), [mobile](images/video-active-390.png).
 
 ![Video cover before activation](images/video-cover-1440.png)
 
 Caption: Illustrative video cover before activation; demonstration 2026-11-03 | [#13](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/13)
 
-- Video content: [editor](images/video-editor.png), [draft preview](images/video-preview.png), [published result](images/video-published.png), [recording](recordings/video-flow.webm). Homepage category icon: [editor](images/icon-editor.png), [draft preview](images/icon-preview.png), [published result](images/icon-published.png), [recording](recordings/icon-flow.webm).
+- Video content: [editor](images/video-editor.png), [draft preview](images/video-preview.png), [published result](images/video-published.png), [recording](recordings/video-flow.webm). Preview and publication may look identical; the recording shows the operations. Homepage category icon: [editor](images/icon-editor.png), [draft preview](images/icon-preview.png), [published result](images/icon-published.png), [recording](recordings/icon-flow.webm).
 
 ![Published homepage category icon](images/icon-published.png)
 
@@ -84,7 +88,7 @@ Caption: Saved illustrative information draft preview; demonstration 2026-11-03;
 
 - Quality & Service: [desktop](images/quality-1440.png), [mobile](images/quality-390.png). About Us: [desktop](images/about-1440.png), [mobile](images/about-390.png). Contact: [desktop](images/contact-1440.png), [mobile](images/contact-390.png).
 - [Information editor](images/info-editor.png), [draft preview](images/info-preview.png), [published result](images/info-published.png), [Chinese information](images/chinese-info.png), [recording](recordings/info-flow.webm).
-- Where to Buy groups entries by country or region. The administrator's saved changes appear immediately and an unpublished entry is removed. The entry shown is an illustrative example, not an actual distributor. [Directory desktop](images/distributors-1440.png), [mobile](images/distributors-390.png), [editor](images/distributor-editor.png), [changed region](images/distributor-edited.png), [unpublished result](images/distributor-unpublished.png), [recording](recordings/distributor-flow.webm).
+- Where to Buy groups entries by country or region. The administrator's saved changes appear immediately and an unpublished entry is removed. The entry shown is an illustrative example, not an actual distributor. The earlier editor screenshot uses a different example from the current directory states. [Directory desktop](images/distributors-1440.png), [mobile](images/distributors-390.png), [editor](images/distributor-editor.png), [changed region](images/distributor-edited.png), [unpublished result](images/distributor-unpublished.png), [recording](recordings/distributor-flow.webm).
 
 ![Two illustrative distributors in changed order](images/distributor-after.png)
 
@@ -93,6 +97,12 @@ Caption: Two illustrative entries after changing their order; demonstration 2026
 [Add entry](images/distributor-add.png), [original order](images/distributor-before.png), [changed country](images/distributor-region.png), [unpublished result](images/distributor-unpublished-two.png).
 
 - [Chinese product and category editor recording](recordings/chinese-category-flow.webm); [illustrative Chinese edit result](images/chinese-edit-result.png) and [edit recording](recordings/chinese-edit-flow.webm).
+
+The following examples open existing Chinese URLs directly; the detail shown is linked from the existing Featured New Products list. These are example routes, not a claim about a customer-supplied bookmark. Demonstration 2026-11-03 | [#5](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/5).
+
+- Chinese product: [desktop](images/legacy-product-1440.png), [mobile](images/legacy-product-390.png).
+- Featured New Products list: [desktop](images/legacy-arrival-list-1440.png), [mobile](images/legacy-arrival-list-390.png).
+- Linked example detail: [desktop](images/legacy-arrival-detail-1440.png), [mobile](images/legacy-arrival-detail-390.png).
 
 ![Chinese category after English changes](images/category-chinese-after.png)
 
@@ -108,7 +118,7 @@ Caption: Chinese category after English changes; demonstration 2026-11-03; sourc
 
 展示使用 2026-09-24 中文封存：225 筆商品、1,079 張商品圖片及 22 篇 Community 文章。英文為未核准的示範翻譯，部分原始圖片含中文字樣。中文文字可能使用 Noto 備援字型。封存不代表目前正式網站內容，商品規格、安全及行銷敘述尚未驗證。歷史聯絡資料可能已失效，請勿用於實際聯絡。共有 103 個無法取得的內嵌檔案路徑：98 個圖片及五個 PDF；另有五項列印步驟引用有說明文字但沒有來源連結。News、影片封面及經銷商包含清楚標示的示例，不計入封存數量。
 
-以下畫面均為 2026-11-03 的展示，錄影可下載。審閱時可由人員引導操作本機互動展示。選擇 YouTube 封面可啟動播放器；外部播放器的外觀或啟動不屬於視覺審閱範圍。詢價連結準備包含商品、型號與頁面的郵件；外部郵件應用程式不屬於視覺審閱範圍，此展示不寄送郵件。
+訪客頁面及預覽顯示 2026-11-03 精簡語言切換展示。管理後台編輯與控制畫面保留同日較早截圖；訪客頁首修正未改變這些後台畫面。其他訪客圖片及錄影在顯示內容未受平板導覽與 News 日期修正影響時，保留同日較早的畫面。錄影可下載。審閱時可由人員引導操作本機互動展示。選擇 YouTube 封面可啟動播放器；外部播放器的外觀或啟動不屬於視覺審閱範圍。詢價連結準備包含商品、型號與頁面的郵件；外部郵件應用程式不屬於視覺審閱範圍，此展示不寄送郵件。
 
 ## 商品、分類與詢價
 
@@ -127,6 +137,10 @@ Caption: Chinese category after English changes; demonstration 2026-11-03; sourc
 
 - 商品與詢價入口：[桌機](images/product-current-1440.png)、[手機](images/product-current-390.png)。選取後的圖片：[桌機](images/gallery-1440.png)、[手機](images/gallery-390.png)。
 
+![商品頁詢價連結](images/quotation-entry-readable.png)
+
+圖說：商品頁末端的詢價連結；展示日期 2026-11-03 | [#10](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/10)。
+
 ![詢價收件地址設定](images/quotation-settings.png)
 
 圖說：示範詢價收件地址設定；展示 2026-11-03 | [#10](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/10)
@@ -143,7 +157,7 @@ Caption: Chinese category after English changes; demonstration 2026-11-03; sourc
 | 數量、目的地、訊息 | 留空供訪客填寫 |
 
 - 管理者可保留中文商品內容，分別編輯英文內容與分類。[商品編輯](images/product-editor.png)、[英文草稿預覽](images/product-preview.png)、[英文發布結果](images/product-published.png)、[中文商品](images/chinese-product.png)、[分類編輯](images/category-editor.png)、[商品錄影](recordings/product-flow.webm)。
-- 管理者可選擇多個英文分類並精選商品。[精選草稿](images/featured-preview.png)、[發布後首頁](images/featured-published.png)、[分類、精選及取消發布錄影](recordings/featured-flow.webm)。
+- 管理者可選擇多個英文分類並精選商品。[精選草稿](images/featured-preview.png)、[發布後首頁](images/featured-published.png)、[分類、精選及取消發布錄影](recordings/featured-flow.webm)。預覽與發布畫面可能顯示相同內容；錄影呈現操作及結果。
 
 ![精選圖片與排序設定](images/featured-controls.png)
 
@@ -163,14 +177,14 @@ Caption: Chinese category after English changes; demonstration 2026-11-03; sourc
 
 
 - News 列表：[桌機](images/news-current-1440.png)、[手機](images/news-current-390.png)。文章：[桌機](images/article-current-1440.png)、[手機](images/article-current-390.png)。
-- [News 編輯](images/news-editor.png)、[草稿預覽](images/news-preview.png)、[發布結果](images/news-published.png)、[錄影](recordings/news-flow.webm)。
-- 啟動前影片封面：[桌機](images/video-cover-1440.png)、[手機](images/video-cover-390.png)。啟動後播放器：[桌機](images/video-active-1440.png)、[手機](images/video-active-390.png)。
+- [News 編輯](images/news-editor.png)、[草稿預覽](images/news-preview.png)、[發布結果](images/news-published.png)、[錄影](recordings/news-flow.webm)。預覽與發布畫面顯示相同的文章內容。錄影顯示編輯欄位與儲存成功訊息、預覽及發布畫面，以及所選的發布與取消發布操作和結果；未顯示儲存按鈕或進入預覽的操作。
+- 啟動前影片封面：[桌機](images/video-cover-1440.png)、[手機](images/video-cover-390.png)。啟動後的框架（此展示阻擋外部播放器）：[桌機](images/video-active-1440.png)、[手機](images/video-active-390.png)。
 
 ![啟動前影片封面](images/video-cover-1440.png)
 
 圖說：啟動前的示範影片封面；展示 2026-11-03 | [#13](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/13)
 
-- 影片內容：[編輯](images/video-editor.png)、[草稿預覽](images/video-preview.png)、[發布結果](images/video-published.png)、[錄影](recordings/video-flow.webm)。首頁分類圖示：[編輯](images/icon-editor.png)、[草稿預覽](images/icon-preview.png)、[發布結果](images/icon-published.png)、[錄影](recordings/icon-flow.webm)。
+- 影片內容：[編輯](images/video-editor.png)、[草稿預覽](images/video-preview.png)、[發布結果](images/video-published.png)、[錄影](recordings/video-flow.webm)。預覽與發布畫面可能相同；錄影呈現操作。首頁分類圖示：[編輯](images/icon-editor.png)、[草稿預覽](images/icon-preview.png)、[發布結果](images/icon-published.png)、[錄影](recordings/icon-flow.webm)。
 
 ![已發布的首頁分類圖示](images/icon-published.png)
 
@@ -188,7 +202,7 @@ Caption: Chinese category after English changes; demonstration 2026-11-03; sourc
 
 - Quality & Service：[桌機](images/quality-1440.png)、[手機](images/quality-390.png)。About Us：[桌機](images/about-1440.png)、[手機](images/about-390.png)。Contact：[桌機](images/contact-1440.png)、[手機](images/contact-390.png)。
 - [資訊頁編輯](images/info-editor.png)、[草稿預覽](images/info-preview.png)、[發布結果](images/info-published.png)、[中文資訊](images/chinese-info.png)、[錄影](recordings/info-flow.webm)。
-- Where to Buy 按國家或地區分組。管理者儲存的變更立即顯示，取消發布後項目移除。所示項目為示例，並非真實經銷商。[目錄桌機](images/distributors-1440.png)、[手機](images/distributors-390.png)、[編輯](images/distributor-editor.png)、[變更地區](images/distributor-edited.png)、[取消發布結果](images/distributor-unpublished.png)、[錄影](recordings/distributor-flow.webm)。
+- Where to Buy 按國家或地區分組。管理者儲存的變更立即顯示，取消發布後項目移除。所示項目為示例，並非真實經銷商。較早的編輯頁截圖使用的示例與目前名單畫面不同。[目錄桌機](images/distributors-1440.png)、[手機](images/distributors-390.png)、[編輯](images/distributor-editor.png)、[變更地區](images/distributor-edited.png)、[取消發布結果](images/distributor-unpublished.png)、[錄影](recordings/distributor-flow.webm)。
 
 ![兩筆示範經銷商變更後順序](images/distributor-after.png)
 
@@ -197,6 +211,12 @@ Caption: Chinese category after English changes; demonstration 2026-11-03; sourc
 [新增項目](images/distributor-add.png)、[原順序](images/distributor-before.png)、[變更國家](images/distributor-region.png)、[取消發布結果](images/distributor-unpublished-two.png)。
 
 - [中文商品與分類編輯錄影](recordings/chinese-category-flow.webm)；[中文示範編輯結果](images/chinese-edit-result.png)及[編輯錄影](recordings/chinese-edit-flow.webm)。
+
+以下示例直接開啟既有中文網址；詳情頁由既有優質新品列表連入。這些是示例網址，不代表客戶曾提供該書籤。展示日期 2026-11-03 | [#5](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/5)。
+
+- 中文商品：[桌機](images/legacy-product-1440.png)、[手機](images/legacy-product-390.png)。
+- 優質新品列表：[桌機](images/legacy-arrival-list-1440.png)、[手機](images/legacy-arrival-list-390.png)。
+- 連結的示例詳情：[桌機](images/legacy-arrival-detail-1440.png)、[手機](images/legacy-arrival-detail-390.png)。
 
 ![英文變更後的中文分類](images/category-chinese-after.png)
 
