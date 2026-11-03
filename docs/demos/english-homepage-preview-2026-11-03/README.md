@@ -1,6 +1,6 @@
 # English homepage preview, 2026-11-03
 
-This demonstration is under review; owner visual review and customer acceptance remain pending. Navigation can obscure the page at intermediate screen widths; this issue is under review, and the affected boundary captures do not establish the corrected layout. The English homepage uses the complete Chinese homepage layout as its base, with English content and approved English-only sections. Compare the banners, catalogue, featured products, video, Community, and the added English News and categories in the full pages below. Featured product selections can differ.
+This demonstration is under review; owner visual review and customer acceptance remain pending. The navigation positioning has been repaired in the demonstration for both languages. Independent review remains pending. The English homepage uses the complete Chinese homepage layout as its base, with English content and approved English-only sections. Compare the banners, catalogue, featured products, video, Community, and the added English News and categories in the full pages below. Featured product selections can differ.
 
 The demonstration uses the Chinese source archive dated 2026-09-24: 225 products, 1,079 gallery images and 22 Community articles. English text is demonstration translation and is not approved final copy. Some original artwork contains Chinese lettering. The archive does not establish current live content; product specifications, safety and marketing claims have not been verified. Historical business contact details may no longer be valid and must not be used for live contact. The archive has 103 unavailable inline file paths, including 98 image paths and five PDF paths. Five additional printable-step references have instruction text but no source link; unavailable actions are labelled beside the text. News, video covers and distributors include illustrative examples.
 
@@ -9,6 +9,24 @@ Every Chinese visitor page offers an English entry, and every English visitor pa
 A guided local interactive demonstration is available during review. The downloadable recordings below are files, not an inline player. The earlier [English preview](../english-preview-2026-11-02/README.md) and [theme demonstration](../english-theme-preview-2026-11-03/README.md) are historical and do not show the current homepage layout. Overall progress: [#2](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2), [#15](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/15).
 
 ## Screens and recordings
+
+The navigation views show the drawer open and closed at 390px and 991px, and the desktop navigation at 992px. The recordings show navigation and scrolling in each language. Demonstration 2026-11-03; source archive 2026-09-24; features [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6), [#16](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/16), [#18](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/18).
+
+![Chinese navigation closed, 390px](images/zh-nav-390-closed.png)
+
+![Chinese navigation open, 390px](images/zh-nav-390-open.png)
+
+![English navigation closed, 390px](images/en-nav-390-closed.png)
+
+![English navigation open, 390px](images/en-nav-390-open.png)
+
+![Chinese navigation closed, 991px](images/zh-nav-991-closed.png)
+
+![English navigation closed, 991px](images/en-nav-991-closed.png)
+
+[Chinese navigation, mobile](recordings/zh-navigation-390.webm) | [English navigation, mobile](recordings/en-navigation-390.webm)
+
+[Chinese navigation, desktop](recordings/zh-navigation-992.webm) | [English navigation, desktop](recordings/en-navigation-992.webm)
 
 ![Chinese homepage, 1440px](images/zh-home-1440.png)
 
@@ -103,7 +121,7 @@ Caption：English article with unavailable action, 1440px | Demonstration 2026-1
 
 # 英文首頁展示，2026-11-03
 
-此展示仍在審閱中，負責人的視覺審閱及客戶驗收尚待進行。在中間螢幕寬度時，導覽可能遮住頁面；此問題仍在審閱中，受影響的邊界寬度畫面不能作為版面已修正的依據。英文首頁以完整中文首頁版面為基礎，使用英文內容並整合已核准的英文專屬區塊。可比較以下完整頁面的橫幅、產品型錄、精選商品、影片、Community，以及額外的英文 News 與分類。精選商品可能不同。
+此展示仍在審閱中，負責人的視覺審閱及客戶驗收尚待進行。展示中的中英文導覽位置已修正，獨立審閱尚待進行。英文首頁以完整中文首頁版面為基礎，使用英文內容並整合已核准的英文專屬區塊。可比較以下完整頁面的橫幅、產品型錄、精選商品、影片、Community，以及額外的英文 News 與分類。精選商品可能不同。
 
 此展示使用 2026-09-24 中文來源封存：225 筆商品、1,079 張商品圖片及 22 篇 Community 文章。英文為示範翻譯，尚未核准為正式文案。部分原始圖片含中文字樣。封存不能代表目前正式網站內容；商品規格、安全與行銷敘述尚未驗證。歷史商業聯絡資料可能已失效，請勿用於實際聯絡。封存中有 103 個無法取得的內嵌檔案路徑，包括 98 個圖片路徑及五個 PDF 路徑。另外五項列印步驟引用有說明文字，但沒有來源連結；無法使用的項目會在文字旁標示。News、影片封面及經銷商包含示例資料。
 
@@ -112,6 +130,24 @@ Caption：English article with unavailable action, 1440px | Demonstration 2026-1
 審閱時可由人員引導操作本機互動展示。以下錄影為可下載檔案，並非內嵌播放器。較早的[英文預覽](../english-preview-2026-11-02/README.md)與[主題展示](../english-theme-preview-2026-11-03/README.md)為歷史紀錄，未呈現目前首頁版面。整體進度：[#2](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2), [#15](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/15)。
 
 ## 畫面與錄影
+
+導覽畫面顯示 390px 及 991px 的選單展開與收合，以及 992px 的桌機導覽。錄影顯示各語言的導覽與捲動畫面。展示 2026-11-03；來源封存 2026-09-24；功能 [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6)、[#16](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/16)、[#18](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/18)。
+
+![中文導覽收合，390px](images/zh-nav-390-closed.png)
+
+![中文導覽展開，390px](images/zh-nav-390-open.png)
+
+![英文導覽收合，390px](images/en-nav-390-closed.png)
+
+![英文導覽展開，390px](images/en-nav-390-open.png)
+
+![中文導覽收合，991px](images/zh-nav-991-closed.png)
+
+![英文導覽收合，991px](images/en-nav-991-closed.png)
+
+[中文導覽，手機](recordings/zh-navigation-390.webm) | [英文導覽，手機](recordings/en-navigation-390.webm)
+
+[中文導覽，桌機](recordings/zh-navigation-992.webm) | [英文導覽，桌機](recordings/en-navigation-992.webm)
 
 ![中文首頁，1440px](images/zh-home-1440.png)
 
