@@ -10,7 +10,7 @@ A guided local interactive demonstration is available during review. The downloa
 
 ## Screens and recordings
 
-The navigation views show the drawer open and closed at 390px and 991px, and the desktop navigation at 992px. The recordings show navigation and scrolling in each language. Demonstration 2026-11-03; source archive 2026-09-24; features [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6), [#16](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/16), [#18](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/18).
+The navigation views show the drawer open and closed at 390px and 991px, and the desktop navigation at 992px. The Fasteners views show the English menu open at 768px and 800px. The recordings show navigation and scrolling in each language. Demonstration 2026-11-03; source archive 2026-09-24; features [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6), [#16](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/16), [#18](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/18).
 
 ![Chinese navigation closed, 390px](images/zh-nav-390-closed.png)
 
@@ -27,6 +27,14 @@ The navigation views show the drawer open and closed at 390px and 991px, and the
 [Chinese navigation, mobile](recordings/zh-navigation-390.webm) | [English navigation, mobile](recordings/en-navigation-390.webm)
 
 [Chinese navigation, desktop](recordings/zh-navigation-992.webm) | [English navigation, desktop](recordings/en-navigation-992.webm)
+
+![English Fasteners menu open, 768px](images/en-fasteners-768.png)
+
+Caption：English Fasteners menu open, 768px | Demonstration 2026-11-03; source archive 2026-09-24 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6), [#13](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/13)
+
+![English Fasteners menu open, 800px](images/en-fasteners-800.png)
+
+Caption：English Fasteners menu open, 800px | Demonstration 2026-11-03; source archive 2026-09-24 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6), [#13](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/13)
 
 ![Chinese homepage, 1440px](images/zh-home-1440.png)
 
@@ -131,7 +139,7 @@ Caption：English article with unavailable action, 1440px | Demonstration 2026-1
 
 ## 畫面與錄影
 
-導覽畫面顯示 390px 及 991px 的選單展開與收合，以及 992px 的桌機導覽。錄影顯示各語言的導覽與捲動畫面。展示 2026-11-03；來源封存 2026-09-24；功能 [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6)、[#16](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/16)、[#18](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/18)。
+導覽畫面顯示 390px 及 991px 的選單展開與收合，以及 992px 的桌機導覽。Fasteners 畫面顯示英文選單在 768px 及 800px 展開的狀態。錄影顯示各語言的導覽與捲動畫面。展示 2026-11-03；來源封存 2026-09-24；功能 [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6)、[#16](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/16)、[#18](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/18)。
 
 ![中文導覽收合，390px](images/zh-nav-390-closed.png)
 
@@ -148,6 +156,14 @@ Caption：English article with unavailable action, 1440px | Demonstration 2026-1
 [中文導覽，手機](recordings/zh-navigation-390.webm) | [英文導覽，手機](recordings/en-navigation-390.webm)
 
 [中文導覽，桌機](recordings/zh-navigation-992.webm) | [英文導覽，桌機](recordings/en-navigation-992.webm)
+
+![英文 Fasteners 選單展開，768px](images/en-fasteners-768.png)
+
+圖說：英文 Fasteners 選單展開，768px | 展示 2026-11-03；來源封存 2026-09-24 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6), [#13](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/13)
+
+![英文 Fasteners 選單展開，800px](images/en-fasteners-800.png)
+
+圖說：英文 Fasteners 選單展開，800px | 展示 2026-11-03；來源封存 2026-09-24 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6), [#13](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/13)
 
 ![中文首頁，1440px](images/zh-home-1440.png)
 
