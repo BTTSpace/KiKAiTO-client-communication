@@ -9,7 +9,7 @@ All readers use the same English label names.
 | `planned` | Feature planning; demonstrations follow implementation. |
 | `awaiting-demo` | In the demonstration stage, awaiting screens or a demo link. |
 | `in-progress` | The feature is being built or adjusted. |
-| `awaiting-acceptance` | A shown version is ready for customer acceptance. |
+| `awaiting-acceptance` | A shown version is ready for customer acceptance; a pending reply does not block closure after verified completion. |
 | `updated-review` | Feature content has changed; read the linked update. |
 | `bilingual` | English and Chinese explanations are available. |
 | `scope-change` | A feature is added to the original plan. |
@@ -41,7 +41,7 @@ Only issues with `needs-customer-response` require a reply now. A source or upda
 | `planned` | 功能規劃階段，展示於功能完成後提供。 |
 | `awaiting-demo` | 已進入展示階段，等待截圖或 demo 連結。 |
 | `in-progress` | 功能正在製作或調整。 |
-| `awaiting-acceptance` | 已有展示版本，待客戶驗收。 |
+| `awaiting-acceptance` | 已有展示版本，待客戶驗收；工作完成並核對後，待回覆不阻擋結案。 |
 | `updated-review` | 功能說明有變動，請看更新。 |
 | `bilingual` | 有英文及中文說明。 |
 | `scope-change` | 相對原計劃新增功能。 |

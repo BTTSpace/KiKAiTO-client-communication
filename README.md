@@ -6,6 +6,7 @@
 - After a requirement is confirmed, the team tracks its build tasks in a separate private development workspace. The original requirement and your replies stay here.
 - We report progress and results on the relevant feature issue: what you can do, where to try it, what you will see and anything still pending.
 - Agreeing to a plan is separate from accepting the demonstrated result. We record your actual confirmation and the scope it covers.
+- Under the [owner policy of 2026-11-04](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2#issuecomment-6609262373), the team closes an issue after completing the work and verifying its required checks, reviews, demonstrations, evidence and report. Customer acceptance is recorded separately and does not block closure. If a later problem arises, the team reopens the original issue or creates a new issue naming and linking the related original issues, the problem and completion checks.
 
 View [all features and progress](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2) or [questions for you](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/3). The English website is being revamped; the existing Chinese pages remain available.
 
@@ -38,6 +39,7 @@ This repository is public. Send private materials through LINE.
 - 需求確認後，團隊將製作工作放到另外的私有開發工作區追蹤；原需求及您的回覆仍保留在這裡。
 - 製作進度與結果回報到對應功能議題，說明能做什麼、從哪裡操作、會看到什麼，以及還有哪些待完成事項。
 - 確認功能計劃與驗收展示結果是不同階段，均記錄您的實際確認及涵蓋範圍。
+- 依 [2026-11-04 負責人規則](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2#issuecomment-6609262373)，團隊完成工作並核對必要檢查、審查、展示、證據及回報後關閉議題。客戶驗收另行記錄，不阻擋結案。後續發現問題時，團隊重新開啟原議題，或新增議題列出並連結相關原議題，說明問題及完成檢查。
 
 查看[全部功能與進度](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2)或[請你回答的問題](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/3)。本次改版英文網站，既有中文頁面仍可使用。
 

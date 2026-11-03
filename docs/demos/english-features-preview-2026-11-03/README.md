@@ -1,6 +1,6 @@
 # English feature preview, 2026-11-03
 
-This preview is for review; customer acceptance remains pending. The [homepage preview](../english-homepage-preview-2026-11-03/README.md) shows the complete Chinese homepage layout, English additions, Community, language entries and navigation on desktop and mobile. The earlier [English preview](../english-preview-2026-11-02/README.md) and [theme preview](../english-theme-preview-2026-11-03/README.md) are historical and do not show the current visitor design.
+This preview is for review; customer acceptance remains pending. Pending customer acceptance does not block closure after verified completion; see the [completion policy](../../../README.md). The [homepage preview](../english-homepage-preview-2026-11-03/README.md) shows the complete Chinese homepage layout, English additions, Community, language entries and navigation on desktop and mobile. The earlier [English preview](../english-preview-2026-11-02/README.md) and [theme preview](../english-theme-preview-2026-11-03/README.md) are historical and do not show the current visitor design.
 
 The demonstration uses the Chinese archive dated 2026-09-24: 225 products, 1,079 gallery images and 22 Community articles. English text is an unapproved demonstration translation; some original artwork contains Chinese. Chinese text may use a Noto fallback font. The archive does not establish current live content, and product specifications, safety and marketing claims have not been verified. Historical contact details may no longer be valid; do not use them for live contact. There are 103 unavailable inline file paths: 98 images and five PDFs. Five further printable-step references have instruction text but no source link. News, video covers and distributors include labelled illustrative examples, excluded from the archive counts.
 
@@ -114,7 +114,7 @@ Caption: Chinese category after English changes; demonstration 2026-11-03; sourc
 
 # 英文功能展示，2026-11-03
 
-此展示供審閱，客戶驗收尚待進行。[首頁展示](../english-homepage-preview-2026-11-03/README.md)呈現完整中文首頁版面、英文新增內容、Community、語言入口，以及桌機與手機導覽。較早的[英文預覽](../english-preview-2026-11-02/README.md)及[主題展示](../english-theme-preview-2026-11-03/README.md)為歷史紀錄，並非目前訪客畫面。
+此展示供審閱，客戶驗收尚待進行。工作完成並核對後，待客戶驗收不阻擋結案；請參閱[結案規則](../../../README.md)。[首頁展示](../english-homepage-preview-2026-11-03/README.md)呈現完整中文首頁版面、英文新增內容、Community、語言入口，以及桌機與手機導覽。較早的[英文預覽](../english-preview-2026-11-02/README.md)及[主題展示](../english-theme-preview-2026-11-03/README.md)為歷史紀錄，並非目前訪客畫面。
 
 展示使用 2026-09-24 中文封存：225 筆商品、1,079 張商品圖片及 22 篇 Community 文章。英文為未核准的示範翻譯，部分原始圖片含中文字樣。中文文字可能使用 Noto 備援字型。封存不代表目前正式網站內容，商品規格、安全及行銷敘述尚未驗證。歷史聯絡資料可能已失效，請勿用於實際聯絡。共有 103 個無法取得的內嵌檔案路徑：98 個圖片及五個 PDF；另有五項列印步驟引用有說明文字但沒有來源連結。News、影片封面及經銷商包含清楚標示的示例，不計入封存數量。
 
