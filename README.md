@@ -14,6 +14,7 @@ View [all features and progress](https://github.com/BTTSpace/KiKAiTO-client-comm
 - [Homepage feedback FR-2026-10-12-01](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/18)
 - [Received documents](docs/customer-feedback/README.md)
 - [Feature scope](docs/scope-v2.md)
+- [English theme demonstration](docs/demos/english-theme-preview-2026-11-03/README.md)
 
 Each issue shows English first, with Chinese below. Reply in either language, in an issue comment or via LINE with the issue number.
 
@@ -43,6 +44,7 @@ This repository is public. Send private materials through LINE.
 - [首頁回饋 FR-2026-10-12-01](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/18)
 - [收到的文件](docs/customer-feedback/README.md)
 - [功能範圍](docs/scope-v2.md)
+- [英文主題展示](docs/demos/english-theme-preview-2026-11-03/README.md)
 
 議題先顯示英文，中文在下方展開；可用任一語言在議題留言或透過 LINE 註明議題編號回覆。
 
