@@ -8,9 +8,25 @@ Every Chinese visitor page offers an English entry, and every English visitor pa
 
 A guided local interactive demonstration is available during review. Some same-day screenshots and recordings are retained where their rendered views are unaffected by the tablet navigation and News date changes. The downloadable recordings below are files, not an inline player. The earlier [English preview](../english-preview-2026-11-02/README.md) and [theme demonstration](../english-theme-preview-2026-11-03/README.md) are historical and do not show the current homepage layout. Overall progress: [#2](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2), [#15](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/15).
 
-## Motion demonstration, 2026-11-04
+## First-scroll motion demonstration, 2026-11-04
 
-These views show the motion-corrected English homepage demonstration; their visual review is pending. The browser emulates the device setting at 1440 × 900 and 390 × 844; these are browser viewports, not physical devices. The still images show the settled first cover. The recordings show switching from the first cover to the second; the normal setting fades the incoming cover and reduced motion displays it directly. The tagline recordings below scroll to the tagline and reload the page at that position: with motion allowed the text enters, while reduced motion displays it immediately. On an initial visit at the top of the page, the entrance can finish before the visitor scrolls to it. External video playback is outside these recordings.
+These views show the updated English homepage demonstration; visual review is pending. The browser emulates motion allowed and reduced motion at 1440 × 900 and 390 × 844, rather than using physical devices. Each recording starts at the top and scrolls to the tagline. With motion allowed, the tagline enters as it reaches the viewport and the next cover fades in; with reduced motion, both appear without the entrance animation. The screenshots show settled first-cover states. External video playback is not shown.
+
+![Desktop first scroll, motion allowed](images/first-scroll-desktop-no-preference.png)
+
+![Desktop first scroll, reduced motion](images/first-scroll-desktop-reduce.png)
+
+![Mobile first scroll, motion allowed](images/first-scroll-mobile-no-preference.png)
+
+![Mobile first scroll, reduced motion](images/first-scroll-mobile-reduce.png)
+
+Tagline: [desktop, motion allowed](recordings/first-scroll-desktop-no-preference-entry.webm) · [desktop, reduced motion](recordings/first-scroll-desktop-reduce-entry.webm) · [mobile, motion allowed](recordings/first-scroll-mobile-no-preference-entry.webm) · [mobile, reduced motion](recordings/first-scroll-mobile-reduce-entry.webm).
+
+Cover switching: [desktop, motion allowed](recordings/first-scroll-desktop-no-preference-cover.webm) · [desktop, reduced motion](recordings/first-scroll-desktop-reduce-cover.webm) · [mobile, motion allowed](recordings/first-scroll-mobile-no-preference-cover.webm) · [mobile, reduced motion](recordings/first-scroll-mobile-reduce-cover.webm). Customer feedback and acceptance remain pending.
+
+## Earlier motion demonstration, 2026-11-04
+
+These views show the earlier page-load motion demonstration; their visual review is pending. The browser emulates the device setting at 1440 × 900 and 390 × 844; these are browser viewports, not physical devices. The still images show the settled first cover. The recordings show switching from the first cover to the second; the normal setting fades the incoming cover and reduced motion displays it directly. The tagline recordings below scroll to the tagline and reload the page at that position: with motion allowed the text enters, while reduced motion displays it immediately. On an initial visit at the top of the page, the entrance can finish before the visitor scrolls to it. External video playback is outside these recordings.
 
 ![Desktop, motion allowed](images/desktop-no-preference.png)
 
@@ -181,9 +197,25 @@ Caption：English article with unavailable action, 1440px | Demonstration 2026-1
 
 審閱時可由人員引導操作本機互動展示。顯示內容未受平板導覽與 News 日期修正影響的截圖及錄影，保留同日較早畫面。以下錄影為可下載檔案，並非內嵌播放器。較早的[英文預覽](../english-preview-2026-11-02/README.md)與[主題展示](../english-theme-preview-2026-11-03/README.md)為歷史紀錄，未呈現目前首頁版面。整體進度：[#2](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2), [#15](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/15)。
 
-## 動畫展示，2026-11-04
+## 首次捲動動畫展示，2026-11-04
 
-這些畫面呈現動畫修正後的英文首頁展示，視覺審閱尚待進行。瀏覽器在 1440 × 900 及 390 × 844 視窗模擬裝置設定，並非實體裝置。靜態圖片顯示第一張封面穩定後的畫面。錄影呈現從第一張切換至第二張封面；允許動畫時新封面淡入，減少動畫時直接顯示。以下標語錄影先捲至標語，再於該位置重新載入頁面：允許動畫時文字進場，減少動畫時直接顯示。首次從頁面頂端進入時，訪客捲到標語前動畫可能已結束。外部影片播放不在這些錄影範圍內。
+這些畫面呈現更新後的英文首頁展示，視覺審閱尚待進行。瀏覽器在 1440 × 900 及 390 × 844 視窗模擬允許動畫和減少動畫設定，並非實體裝置。每支錄影從頁面頂端開始，捲動至標語。允許動畫時，標語進入視窗時呈現進場效果，下一張封面淡入；減少動畫時兩者直接顯示，沒有進場動畫。截圖顯示第一張封面穩定後的畫面，未展示外部影片播放。
+
+![桌機首次捲動，允許動畫](images/first-scroll-desktop-no-preference.png)
+
+![桌機首次捲動，減少動畫](images/first-scroll-desktop-reduce.png)
+
+![手機首次捲動，允許動畫](images/first-scroll-mobile-no-preference.png)
+
+![手機首次捲動，減少動畫](images/first-scroll-mobile-reduce.png)
+
+標語：[桌機，允許動畫](recordings/first-scroll-desktop-no-preference-entry.webm) · [桌機，減少動畫](recordings/first-scroll-desktop-reduce-entry.webm) · [手機，允許動畫](recordings/first-scroll-mobile-no-preference-entry.webm) · [手機，減少動畫](recordings/first-scroll-mobile-reduce-entry.webm)。
+
+封面切換：[桌機，允許動畫](recordings/first-scroll-desktop-no-preference-cover.webm) · [桌機，減少動畫](recordings/first-scroll-desktop-reduce-cover.webm) · [手機，允許動畫](recordings/first-scroll-mobile-no-preference-cover.webm) · [手機，減少動畫](recordings/first-scroll-mobile-reduce-cover.webm)。客戶回饋及驗收尚待進行。
+
+## 較早的動畫展示，2026-11-04
+
+這些畫面呈現較早的頁面載入動畫展示，視覺審閱尚待進行。瀏覽器在 1440 × 900 及 390 × 844 視窗模擬裝置設定，並非實體裝置。靜態圖片顯示第一張封面穩定後的畫面。錄影呈現從第一張切換至第二張封面；允許動畫時新封面淡入，減少動畫時直接顯示。以下標語錄影先捲至標語，再於該位置重新載入頁面：允許動畫時文字進場，減少動畫時直接顯示。首次從頁面頂端進入時，訪客捲到標語前動畫可能已結束。外部影片播放不在這些錄影範圍內。
 
 ![桌機，允許動畫](images/desktop-no-preference.png)
 
