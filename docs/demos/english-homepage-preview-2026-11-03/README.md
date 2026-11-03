@@ -10,7 +10,7 @@ A guided local interactive demonstration is available during review. Some same-d
 
 ## First-scroll motion demonstration, 2026-11-04
 
-These views show the updated English homepage demonstration; visual review is pending. The browser emulates motion allowed and reduced motion at 1440 × 900 and 390 × 844, rather than using physical devices. Each recording starts at the top and scrolls to the tagline. With motion allowed, the tagline enters as it reaches the viewport and the next cover fades in; with reduced motion, both appear without the entrance animation. The screenshots show settled first-cover states. External video playback is not shown.
+On 2026-11-04, the desktop and mobile browser views were checked for tagline entrance and cover switching with motion allowed and reduced motion. The previously observed first-entry flash was absent in the inspected captures. The browser emulates motion allowed and reduced motion at 1440 × 900 and 390 × 844, rather than using physical devices. Each recording starts at the top and scrolls to the tagline. With motion allowed, the tagline enters as it reaches the viewport and the next cover fades in; with reduced motion, both appear without the entrance animation. The screenshots show settled first-cover states. External video playback is not shown.
 
 ![Desktop first scroll, motion allowed](images/first-scroll-desktop-no-preference.png)
 
@@ -183,7 +183,7 @@ Caption：English article with unavailable action, 1440px | Demonstration 2026-1
 
 ## 首次捲動動畫展示，2026-11-04
 
-這些畫面呈現更新後的英文首頁展示，視覺審閱尚待進行。瀏覽器在 1440 × 900 及 390 × 844 視窗模擬允許動畫和減少動畫設定，並非實體裝置。每支錄影從頁面頂端開始，捲動至標語。允許動畫時，標語進入視窗時呈現進場效果，下一張封面淡入；減少動畫時兩者直接顯示，沒有進場動畫。截圖顯示第一張封面穩定後的畫面，未展示外部影片播放。
+2026-11-04 已檢查桌機及手機瀏覽器畫面中，允許動畫與減少動畫設定下的標語進場及封面切換。所檢畫面未出現先前首次進場時觀察到的閃爍。瀏覽器在 1440 × 900 及 390 × 844 視窗模擬允許動畫和減少動畫設定，並非實體裝置。每支錄影從頁面頂端開始，捲動至標語。允許動畫時，標語進入視窗時呈現進場效果，下一張封面淡入；減少動畫時兩者直接顯示，沒有進場動畫。截圖顯示第一張封面穩定後的畫面，未展示外部影片播放。
 
 ![桌機首次捲動，允許動畫](images/first-scroll-desktop-no-preference.png)
 
