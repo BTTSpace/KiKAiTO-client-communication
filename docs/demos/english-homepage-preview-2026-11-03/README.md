@@ -10,6 +10,30 @@ A guided local interactive demonstration is available during review. The downloa
 
 ## Screens and recordings
 
+The language switch shows 中文 and EN with the current language marked. Select the other language by click or keyboard to open its homepage. The English Products menu aligns each column at its left text edge and retains shared row tracks. The five desktop groups below are from the compact-switch demonstration at 1153px; the KGB Tools view is the second image. Demonstration 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6), [#16](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/16).
+
+Language switch recordings, demonstration 2026-11-03: Chinese to English: [mobile click](recordings/language-zh-390-click.webm), [mobile keyboard](recordings/language-zh-390-keyboard.webm), [desktop click](recordings/language-zh-1153-click.webm), [desktop keyboard](recordings/language-zh-1153-keyboard.webm). English to Chinese: [mobile click](recordings/language-en-390-click.webm), [mobile keyboard](recordings/language-en-390-keyboard.webm), [desktop click](recordings/language-en-1153-click.webm), [desktop keyboard](recordings/language-en-1153-keyboard.webm). [#16](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/16)
+
+![Modular Series menu at 1153px](images/en-group-0-1153.png)
+
+Caption: Modular Series menu open, desktop 1153px; demonstration 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6).
+
+![KGB Tools menu at 1153px](images/en-group-1-1153.png)
+
+Caption: KGB Tools menu open, desktop 1153px; demonstration 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6).
+
+![Waterproof Products menu at 1153px](images/en-group-2-1153.png)
+
+Caption: Waterproof Products menu open, desktop 1153px; demonstration 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6).
+
+![Accessories menu at 1153px](images/en-group-3-1153.png)
+
+Caption: Accessories menu open, desktop 1153px; demonstration 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6).
+
+![Fasteners menu at 1153px](images/en-group-4-1153.png)
+
+Caption: Fasteners menu open, desktop 1153px; demonstration 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6).
+
 The navigation views show the drawer open and closed at 390px and 991px, and the desktop navigation at 992px. The Fasteners views show the English menu open at 768px and 800px. The recordings show navigation and scrolling in each language. Demonstration 2026-11-03; source archive 2026-09-24; features [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6), [#16](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/16), [#18](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/18).
 
 ![Chinese navigation closed, 390px](images/zh-nav-390-closed.png)
@@ -138,6 +162,30 @@ Caption：English article with unavailable action, 1440px | Demonstration 2026-1
 審閱時可由人員引導操作本機互動展示。以下錄影為可下載檔案，並非內嵌播放器。較早的[英文預覽](../english-preview-2026-11-02/README.md)與[主題展示](../english-theme-preview-2026-11-03/README.md)為歷史紀錄，未呈現目前首頁版面。整體進度：[#2](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2), [#15](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/15)。
 
 ## 畫面與錄影
+
+語言切換同時顯示中文與 EN，並標示目前語言。以滑鼠或鍵盤選擇另一語言可開啟其首頁。英文商品選單每欄文字靠左對齊，並維持共用列軌。下方五組桌機畫面為 1153px 的精簡語言切換展示；第二張為 KGB Tools。展示日期 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6)、[#16](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/16)。
+
+語言切換錄影，展示日期 2026-11-03：中文切換至英文：[手機點選](recordings/language-zh-390-click.webm)、[手機鍵盤](recordings/language-zh-390-keyboard.webm)、[桌機點選](recordings/language-zh-1153-click.webm)、[桌機鍵盤](recordings/language-zh-1153-keyboard.webm)。英文切換至中文：[手機點選](recordings/language-en-390-click.webm)、[手機鍵盤](recordings/language-en-390-keyboard.webm)、[桌機點選](recordings/language-en-1153-click.webm)、[桌機鍵盤](recordings/language-en-1153-keyboard.webm)。[#16](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/16)
+
+![Modular Series 選單，1153px](images/en-group-0-1153.png)
+
+圖說：Modular Series 選單展開，桌機 1153px；展示日期 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6)。
+
+![KGB Tools 選單，1153px](images/en-group-1-1153.png)
+
+圖說：KGB Tools 選單展開，桌機 1153px；展示日期 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6)。
+
+![Waterproof Products 選單，1153px](images/en-group-2-1153.png)
+
+圖說：Waterproof Products 選單展開，桌機 1153px；展示日期 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6)。
+
+![Accessories 選單，1153px](images/en-group-3-1153.png)
+
+圖說：Accessories 選單展開，桌機 1153px；展示日期 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6)。
+
+![Fasteners 選單，1153px](images/en-group-4-1153.png)
+
+圖說：Fasteners 選單展開，桌機 1153px；展示日期 2026-11-03 | [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6)。
 
 導覽畫面顯示 390px 及 991px 的選單展開與收合，以及 992px 的桌機導覽。Fasteners 畫面顯示英文選單在 768px 及 800px 展開的狀態。錄影顯示各語言的導覽與捲動畫面。展示 2026-11-03；來源封存 2026-09-24；功能 [#6](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/6)、[#16](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/16)、[#18](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/18)。
 

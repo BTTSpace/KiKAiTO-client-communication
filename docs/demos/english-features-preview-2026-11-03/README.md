@@ -4,7 +4,7 @@ This preview is for review; customer acceptance remains pending. The [homepage p
 
 The demonstration uses the Chinese archive dated 2026-09-24: 225 products, 1,079 gallery images and 22 Community articles. English text is an unapproved demonstration translation; some original artwork contains Chinese. Chinese text may use a Noto fallback font. The archive does not establish current live content, and product specifications, safety and marketing claims have not been verified. Historical contact details may no longer be valid; do not use them for live contact. There are 103 unavailable inline file paths: 98 images and five PDFs. Five further printable-step references have instruction text but no source link. News, video covers and distributors include labelled illustrative examples, excluded from the archive counts.
 
-All pictures below show the demonstration on 2026-11-03. Recordings can be downloaded. A guided local interactive demonstration is available during review. Selecting a YouTube cover activates its player; the appearance or launch of an external player is not part of visual review. A quotation link prepares an email with the product, model and page; its external mail application is not part of visual review, and the demonstration sends no message.
+The visitor pages and previews show the compact language switch demonstration on 2026-11-03. Administrator-only editor and control pictures retain earlier captures from the same date; those screens are unchanged by the visitor-header correction. Recordings can be downloaded. A guided local interactive demonstration is available during review. Selecting a YouTube cover activates its player; the appearance or launch of an external player is not part of visual review. A quotation link prepares an email with the product, model and page; its external mail application is not part of visual review, and the demonstration sends no message.
 
 ## Products, categories and quotation
 
@@ -108,7 +108,7 @@ Caption: Chinese category after English changes; demonstration 2026-11-03; sourc
 
 展示使用 2026-09-24 中文封存：225 筆商品、1,079 張商品圖片及 22 篇 Community 文章。英文為未核准的示範翻譯，部分原始圖片含中文字樣。中文文字可能使用 Noto 備援字型。封存不代表目前正式網站內容，商品規格、安全及行銷敘述尚未驗證。歷史聯絡資料可能已失效，請勿用於實際聯絡。共有 103 個無法取得的內嵌檔案路徑：98 個圖片及五個 PDF；另有五項列印步驟引用有說明文字但沒有來源連結。News、影片封面及經銷商包含清楚標示的示例，不計入封存數量。
 
-以下畫面均為 2026-11-03 的展示，錄影可下載。審閱時可由人員引導操作本機互動展示。選擇 YouTube 封面可啟動播放器；外部播放器的外觀或啟動不屬於視覺審閱範圍。詢價連結準備包含商品、型號與頁面的郵件；外部郵件應用程式不屬於視覺審閱範圍，此展示不寄送郵件。
+訪客頁面及預覽顯示 2026-11-03 精簡語言切換展示。僅有管理後台編輯與控制畫面保留同日較早截圖；訪客頁首修正未改變這些後台畫面。錄影可下載。審閱時可由人員引導操作本機互動展示。選擇 YouTube 封面可啟動播放器；外部播放器的外觀或啟動不屬於視覺審閱範圍。詢價連結準備包含商品、型號與頁面的郵件；外部郵件應用程式不屬於視覺審閱範圍，此展示不寄送郵件。
 
 ## 商品、分類與詢價
 
