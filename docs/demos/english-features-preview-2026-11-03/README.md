@@ -63,7 +63,7 @@ Caption: Illustrative News published; demonstration 2026-11-03 | [#8](https://gi
 
 
 - News list: [desktop](images/news-current-1440.png), [mobile](images/news-current-390.png). Article: [desktop](images/article-current-1440.png), [mobile](images/article-current-390.png).
-- [News editor](images/news-editor.png), [draft preview](images/news-preview.png), [published result](images/news-published.png), [recording](recordings/news-flow.webm). The preview and published images show the same article content; the recording shows the save, preview, publish and unpublish sequence.
+- [News editor](images/news-editor.png), [draft preview](images/news-preview.png), [published result](images/news-published.png), [recording](recordings/news-flow.webm). The preview and published images show the same article content. The recording shows edited fields and a saved confirmation, preview and published views, and selected publish and unpublish actions with their results; it does not show the Save button or preview navigation.
 - Video cover before activation: [desktop](images/video-cover-1440.png), [mobile](images/video-cover-390.png). Activated frame with the external player blocked in this demonstration: [desktop](images/video-active-1440.png), [mobile](images/video-active-390.png).
 
 ![Video cover before activation](images/video-cover-1440.png)
@@ -177,7 +177,7 @@ Caption: Chinese category after English changes; demonstration 2026-11-03; sourc
 
 
 - News 列表：[桌機](images/news-current-1440.png)、[手機](images/news-current-390.png)。文章：[桌機](images/article-current-1440.png)、[手機](images/article-current-390.png)。
-- [News 編輯](images/news-editor.png)、[草稿預覽](images/news-preview.png)、[發布結果](images/news-published.png)、[錄影](recordings/news-flow.webm)。預覽與發布畫面顯示相同的文章內容；錄影呈現儲存、預覽、發布及取消發布的順序。
+- [News 編輯](images/news-editor.png)、[草稿預覽](images/news-preview.png)、[發布結果](images/news-published.png)、[錄影](recordings/news-flow.webm)。預覽與發布畫面顯示相同的文章內容。錄影顯示編輯欄位與儲存成功訊息、預覽及發布畫面，以及所選的發布與取消發布操作和結果；未顯示儲存按鈕或進入預覽的操作。
 - 啟動前影片封面：[桌機](images/video-cover-1440.png)、[手機](images/video-cover-390.png)。啟動後的框架（此展示阻擋外部播放器）：[桌機](images/video-active-1440.png)、[手機](images/video-active-390.png)。
 
 ![啟動前影片封面](images/video-cover-1440.png)
