@@ -2,11 +2,11 @@
 
 This development demonstration uses a one-time English translation of the designated Chinese content snapshot from 2026-11-04. Chinese and English content are maintained separately afterwards. It does not establish the current content of the public website. The English demonstration has not been approved by the customer.
 
-The snapshot contains 225 products and 1,079 product images. Of the products, 168 have a visible category and 57 belong to hidden parent categories, following the source visibility. Chinese content, accounts and original media remain unchanged. No source News or distributor entries were supplied, so none were invented. The source already had 103 embedded media references without files; some images contain Chinese text or retain their original brands.
+The snapshot contains 225 products and 1,079 product images. Of the products, 168 have a visible category and 57 belong to hidden parent categories, following the source visibility. Chinese content, accounts and original media remain unchanged. No source News or distributor entries were supplied, so none were invented. The source already had 103 embedded media references without files; missing-image notices remain visible. Some images contain Chinese text or retain their original brands. The Halloween article mentions printable steps, but the source has no link for them.
 
 The project owner can open the development demonstration for review. The [language-switch recording](media/language-switch.webm) is downloadable and shows switching between Chinese and English. External YouTube playback, downloads and sending email were not checked.
 
-At a 390px mobile viewport, the homepage content extends to 405px. The Community overlay overlaps content. These visible limitations remain under review; the screenshots do not establish that every page or product has passed visual review. Desktop and mobile views are browser captures, not physical-device checks.
+At a 390px mobile viewport, the Chinese and English homepages extend to 405px. On the homepage, LEARN MORE overlays cover Community card captions and the MORE button. These visible limitations remain under review; the screenshots do not establish that every page or product has passed visual review. Desktop and mobile views are browser captures, not physical-device checks.
 
 ## Screenshots
 
@@ -26,7 +26,7 @@ Caption: Chinese homepage, mobile | development demonstration, 2026-11-04
 
 ### English homepage
 
-Choose the English entry to open the translated homepage. The captured page is shown below.
+Choose the English entry to open the translated homepage. The source notice appears above the footer; the language-switch recording shows the header remaining aligned when switching languages.
 
 ![Desktop english homepage](media/desktop-english.png)
 
@@ -122,7 +122,7 @@ Caption: Chinese Community article, mobile | development demonstration, 2026-11-
 
 ### English Community article
 
-Open the translated Community article. The captured page is shown below.
+Open the Storm Duck Community article to see its title and the notice for missing source images.
 
 ![Desktop english community article](media/desktop-english_community_detail.png)
 
@@ -134,7 +134,7 @@ Caption: English Community article, mobile | development demonstration, 2026-11-
 
 ### English Community article with existing heading
 
-Open the other English Community article. The captured page is shown below.
+Open the Halloween Community article to see its single title and the notice that the printable steps have no source link.
 
 ![Desktop english community article with existing heading](media/desktop-english_community_existing_heading.png)
 
@@ -146,7 +146,7 @@ Caption: English Community article with existing heading, mobile | development d
 
 ### English Quality & Service
 
-Open Quality & Service. The captured page is shown below.
+Open Quality & Service. On the 390px mobile view, the long links wrap within the page; empty download prompts are absent.
 
 ![Desktop english quality & service](media/desktop-english_quality.png)
 
@@ -170,7 +170,7 @@ Caption: English About Us, mobile | development demonstration, 2026-11-04
 
 ### English Contact
 
-Open Contact. The captured page is shown below.
+Open Contact to see the contact details. The footer and contact address both show Guobing Road.
 
 ![Desktop english contact](media/desktop-english_contact.png)
 
@@ -235,11 +235,11 @@ Caption: Chinese warranty information, mobile | development demonstration, 2026-
 
 此開發展示使用 2026-11-04 指定中文內容快照的一次性英文翻譯，之後中英文內容各自維護。它不代表目前公開網站內容，英文展示尚未獲客戶核准。
 
-快照包含 225 項商品及 1,079 張商品圖片。依來源可見性，168 項商品有可見分類，57 項位於隱藏的上層分類。中文內容、帳號及原始媒體維持不變。來源未提供 News 或經銷商資料，因此沒有虛構資料。來源既有 103 個內嵌媒體引用沒有對應檔案；部分圖片保留中文字或原品牌。
+快照包含 225 項商品及 1,079 張商品圖片。依來源可見性，168 項商品有可見分類，57 項位於隱藏的上層分類。中文內容、帳號及原始媒體維持不變。來源未提供 News 或經銷商資料，因此沒有虛構資料。來源既有 103 個內嵌媒體引用沒有對應檔案，畫面仍顯示缺圖提示。部分圖片保留中文字或原品牌。萬聖節文章提及可列印步驟，但來源沒有提供連結。
 
 負責人可開啟開發展示供審閱。[語言切換錄影](media/language-switch.webm)可下載，呈現中英文切換。未檢查外部 YouTube 播放、下載及寄信。
 
-在 390px 手機視窗，首頁內容延伸至 405px。Community 的覆蓋層與內容重疊。這些可見限制仍在審查，截圖不代表每個頁面或商品已通過視覺審查。桌機及手機畫面使用瀏覽器擷取，未在實體裝置檢查。
+在 390px 手機視窗，中英文首頁內容延伸至 405px。首頁的 LEARN MORE 覆蓋層遮住 Community 卡片圖說及 MORE 按鈕。這些可見限制仍在審查，截圖不代表每個頁面或商品已通過視覺審查。桌機及手機畫面使用瀏覽器擷取，未在實體裝置檢查。
 
 ## 畫面說明
 
@@ -254,7 +254,7 @@ Caption: Chinese warranty information, mobile | development demonstration, 2026-
 
 ### 英文首頁
 
-選擇英文入口，開啟英文翻譯首頁。 上方顯示擷取的頁面。
+選擇英文入口，開啟英文翻譯首頁。來源提示位於頁尾上方；語言切換錄影呈現切換時頁首維持對齊。
 
 - 圖說：英文首頁，桌機 | 開發展示，2026-11-04
 - 圖說：英文首頁，手機 | 開發展示，2026-11-04
@@ -310,21 +310,21 @@ Caption: Chinese warranty information, mobile | development demonstration, 2026-
 
 ### 英文社群文章
 
-開啟英文翻譯社群文章。 上方顯示擷取的頁面。
+開啟 Storm Duck 社群文章，可看到標題與來源圖片缺失提示。
 
 - 圖說：英文社群文章，桌機 | 開發展示，2026-11-04
 - 圖說：英文社群文章，手機 | 開發展示，2026-11-04
 
 ### 保留原標題的英文社群文章
 
-開啟另一篇英文 Community 文章。 上方顯示擷取的頁面。
+開啟萬聖節 Community 文章，可看到單一標題，以及可列印步驟沒有來源連結的提示。
 
 - 圖說：保留原標題的英文社群文章，桌機 | 開發展示，2026-11-04
 - 圖說：保留原標題的英文社群文章，手機 | 開發展示，2026-11-04
 
 ### 英文品質與服務
 
-開啟 Quality & Service。 上方顯示擷取的頁面。
+開啟 Quality & Service。390px 手機畫面中的長連結會在頁面內換行，也沒有空白下載提示。
 
 - 圖說：英文品質與服務，桌機 | 開發展示，2026-11-04
 - 圖說：英文品質與服務，手機 | 開發展示，2026-11-04
@@ -338,7 +338,7 @@ Caption: Chinese warranty information, mobile | development demonstration, 2026-
 
 ### 英文聯絡我們
 
-開啟 Contact。 上方顯示擷取的頁面。
+開啟 Contact 查看聯絡資料；頁尾及聯絡地址均顯示 Guobing Road。
 
 - 圖說：英文聯絡我們，桌機 | 開發展示，2026-11-04
 - 圖說：英文聯絡我們，手機 | 開發展示，2026-11-04
