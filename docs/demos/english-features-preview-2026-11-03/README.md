@@ -1,3 +1,5 @@
+> Historical demonstration. See the [current English content demonstration](../english-content-2026-11-04/README.md).
+
 # English feature preview, 2026-11-03
 
 This preview is for review; customer acceptance remains pending. Pending customer acceptance does not block closure after verified completion; see the [completion policy](../../../README.md). The [homepage preview](../english-homepage-preview-2026-11-03/README.md) shows the complete Chinese homepage layout, English additions, Community, language entries and navigation on desktop and mobile. The earlier [English preview](../english-preview-2026-11-02/README.md) and [theme preview](../english-theme-preview-2026-11-03/README.md) are historical and do not show the current visitor design.

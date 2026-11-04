@@ -15,8 +15,10 @@ View [all features and progress](https://github.com/BTTSpace/KiKAiTO-client-comm
 - [Homepage feedback FR-2026-10-12-01](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/18)
 - [Received documents](docs/customer-feedback/README.md)
 - [Feature scope](docs/scope-v2.md)
-- [English homepage preview](docs/demos/english-homepage-preview-2026-11-03/README.md)
-- [English feature preview](docs/demos/english-features-preview-2026-11-03/README.md)
+- [Current English content demonstration](docs/demos/english-content-2026-11-04/README.md)
+- [Historical Chinese content demonstration](docs/demos/vm-content-sync-2026-11-04/README.md)
+- [Historical English homepage preview](docs/demos/english-homepage-preview-2026-11-03/README.md)
+- [Historical English feature preview](docs/demos/english-features-preview-2026-11-03/README.md)
 - [Historical English theme demonstration](docs/demos/english-theme-preview-2026-11-03/README.md) · [Current homepage direction](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2#issuecomment-6593497713)
 
 Each issue shows English first, with Chinese below. Reply in either language, in an issue comment or via LINE with the issue number.
@@ -24,7 +26,7 @@ Each issue shows English first, with Chinese below. Reply in either language, in
 - `needs-customer-response`: a reply is required.
 - `needs-customer-decision`: each question has a recommendation and a reason. Within a plan you have confirmed, if no change is needed, we proceed with that recommendation. For a change, select another option or “Other” and describe your proposal; comment or reply via LINE.
 
-The preview guides provide screenshots and downloadable recordings for review. A guided interactive demonstration is available locally during review. Please review the shown version and report any changes or acceptance separately; customer acceptance remains pending.
+The preview guides provide screenshots and downloadable recordings for review. The project owner can provide an interactive development demonstration. Please review the shown version and report any changes or acceptance separately; customer acceptance remains pending.
 
 This repository is public. Send private materials through LINE.
 
@@ -48,8 +50,10 @@ This repository is public. Send private materials through LINE.
 - [首頁回饋 FR-2026-10-12-01](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/18)
 - [收到的文件](docs/customer-feedback/README.md)
 - [功能範圍](docs/scope-v2.md)
-- [英文首頁展示](docs/demos/english-homepage-preview-2026-11-03/README.md)
-- [英文功能展示](docs/demos/english-features-preview-2026-11-03/README.md)
+- [目前英文內容展示](docs/demos/english-content-2026-11-04/README.md)
+- [中文內容歷史展示](docs/demos/vm-content-sync-2026-11-04/README.md)
+- [英文首頁歷史展示](docs/demos/english-homepage-preview-2026-11-03/README.md)
+- [英文功能歷史展示](docs/demos/english-features-preview-2026-11-03/README.md)
 - [英文主題歷史展示](docs/demos/english-theme-preview-2026-11-03/README.md) · [目前首頁方向](https://github.com/BTTSpace/KiKAiTO-client-communication/issues/2#issuecomment-6593497713)
 
 議題先顯示英文，中文在下方展開；可用任一語言在議題留言或透過 LINE 註明議題編號回覆。
@@ -57,7 +61,7 @@ This repository is public. Send private materials through LINE.
 - `needs-customer-response`：需要回覆。
 - `needs-customer-decision`：每題附建議方案及理由，在您已確認的計劃內，無需調整就依建議執行；需調整時可選其他選項，或選「其他」填寫自己的建議，在議題留言或透過 LINE 回覆。
 
-展示指南提供畫面截圖及可下載錄影供審閱；審閱期間可由人員引導操作本機互動展示。請核對展示版本，另行提出修改或驗收意見；客戶驗收尚待進行。
+展示指南提供畫面截圖及可下載錄影供審閱；負責人可提供互動開發展示。請核對展示版本，另行提出修改或驗收意見；客戶驗收尚待進行。
 
 本倉庫公開，私密素材使用LINE交付。
 
