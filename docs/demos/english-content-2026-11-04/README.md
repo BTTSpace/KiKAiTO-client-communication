@@ -2,11 +2,11 @@
 
 This development demonstration uses a one-time English translation of the designated Chinese content snapshot from 2026-11-04. Chinese and English content are maintained separately afterwards. It does not establish the current content of the public website. The English demonstration has not been approved by the customer.
 
-The snapshot contains 225 products and 1,079 product images. Of the products, 168 have a visible category and 57 belong to hidden parent categories, following the source visibility. Chinese content, accounts and original media remain unchanged. No source News or distributor entries were supplied, so none were invented. The source already had 103 embedded media references without files; missing-image notices remain visible. Some images contain Chinese text or retain their original brands. The Halloween article mentions printable steps, but the source has no link for them.
+The snapshot contains 225 products and 1,079 product images. Of the products, 168 have a visible category and 57 belong to hidden parent categories, following the source visibility. Chinese content, accounts and original media remain unchanged. No source News or distributor entries were supplied, so none were invented. The source already had 103 embedded media references without files; missing-image notices remain visible. Some images contain Chinese text or retain their original brands. The Halloween article shows a missing-image notice, has no source link for its printable steps, and displays “tagging#kikaito2012” without a space.
 
 The project owner can open the development demonstration for review. The [language-switch recording](media/language-switch.webm) is downloadable and shows switching between Chinese and English. External YouTube playback, downloads and sending email were not checked.
 
-At a 390px mobile viewport, the Chinese and English homepages extend to 405px. On the homepage, LEARN MORE overlays cover Community card captions and the MORE button. These visible limitations remain under review; the screenshots do not establish that every page or product has passed visual review. Desktop and mobile views are browser captures, not physical-device checks.
+At a 390px mobile viewport, the Chinese and English homepages extend to 405px. On the homepage, LEARN MORE overlays cover Community card captions and the MORE button. These visible limitations remain under review; the screenshots do not establish that every page or product has passed visual review. The Chinese Safety and Service pages show only a return-to-home link followed by a blank body, and the Chinese Warranty page shows a broken image. Desktop and mobile views are browser captures, not physical-device checks.
 
 ## Screenshots
 
@@ -235,11 +235,11 @@ Caption: Chinese warranty information, mobile | development demonstration, 2026-
 
 此開發展示使用 2026-11-04 指定中文內容快照的一次性英文翻譯，之後中英文內容各自維護。它不代表目前公開網站內容，英文展示尚未獲客戶核准。
 
-快照包含 225 項商品及 1,079 張商品圖片。依來源可見性，168 項商品有可見分類，57 項位於隱藏的上層分類。中文內容、帳號及原始媒體維持不變。來源未提供 News 或經銷商資料，因此沒有虛構資料。來源既有 103 個內嵌媒體引用沒有對應檔案，畫面仍顯示缺圖提示。部分圖片保留中文字或原品牌。萬聖節文章提及可列印步驟，但來源沒有提供連結。
+快照包含 225 項商品及 1,079 張商品圖片。依來源可見性，168 項商品有可見分類，57 項位於隱藏的上層分類。中文內容、帳號及原始媒體維持不變。來源未提供 News 或經銷商資料，因此沒有虛構資料。來源既有 103 個內嵌媒體引用沒有對應檔案，畫面仍顯示缺圖提示。部分圖片保留中文字或原品牌。萬聖節文章顯示缺圖提示、可列印步驟沒有來源連結，且「tagging#kikaito2012」中缺少空格。
 
 負責人可開啟開發展示供審閱。[語言切換錄影](media/language-switch.webm)可下載，呈現中英文切換。未檢查外部 YouTube 播放、下載及寄信。
 
-在 390px 手機視窗，中英文首頁內容延伸至 405px。首頁的 LEARN MORE 覆蓋層遮住 Community 卡片圖說及 MORE 按鈕。這些可見限制仍在審查，截圖不代表每個頁面或商品已通過視覺審查。桌機及手機畫面使用瀏覽器擷取，未在實體裝置檢查。
+在 390px 手機視窗，中英文首頁內容延伸至 405px。首頁的 LEARN MORE 覆蓋層遮住 Community 卡片圖說及 MORE 按鈕。這些可見限制仍在審查，截圖不代表每個頁面或商品已通過視覺審查。中文 Safety 及 Service 頁面在返回首頁連結後呈現空白內容，中文 Warranty 頁面則顯示破圖。桌機及手機畫面使用瀏覽器擷取，未在實體裝置檢查。
 
 ## 畫面說明
 
