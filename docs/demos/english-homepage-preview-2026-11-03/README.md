@@ -1,3 +1,5 @@
+> Historical demonstration. See the [current website content demonstration](../vm-content-sync-2026-11-04/README.md).
+
 # English homepage preview, 2026-11-03
 
 The [2026-11-03 demonstration images have been checked](https://github.com/BTTSpace/KiKAiTO-client-communication/pull/28#issuecomment-6607342732). Owner feedback and customer acceptance remain pending; customer feedback is welcome. Pending customer acceptance does not block closure after verified completion; see the [completion policy](../../../README.md). The navigation positioning has been repaired in the demonstration for both languages. The English homepage uses the complete Chinese homepage layout as its base, with English content and approved English-only sections. Compare the banners, catalogue, featured products, video, Community, and the added English News and categories in the full pages below. Featured product selections can differ.
