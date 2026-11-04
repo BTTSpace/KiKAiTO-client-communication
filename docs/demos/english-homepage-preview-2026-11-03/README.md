@@ -1,4 +1,4 @@
-> Historical demonstration. See the [current website content demonstration](../vm-content-sync-2026-11-04/README.md).
+> Historical demonstration. See the [current English content demonstration](../english-content-2026-11-04/README.md).
 
 # English homepage preview, 2026-11-03
 

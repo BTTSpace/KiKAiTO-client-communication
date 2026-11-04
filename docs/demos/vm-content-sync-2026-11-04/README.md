@@ -1,3 +1,5 @@
+> Historical demonstration. See the [current English content demonstration](../english-content-2026-11-04/README.md).
+
 # Website content demonstration, 2026-11-04
 
 These screenshots show the hosted development site with the designated source content snapshot from 2026-11-04. They cover the pages pictured below, not a visual review of every product or the current public website.
